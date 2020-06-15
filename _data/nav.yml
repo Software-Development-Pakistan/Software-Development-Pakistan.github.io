@@ -1,0 +1,12 @@
+- title: "External Menu Item"
+  url: "https://example.com"
+  tab: true # opens this link in a new tab
+  id: example # will be used as a parent item
+
+- title: "Child Menu Item"
+  url: "https://example.com"
+  parent: example # will make this item a child of the item above (not displayed when menu_style is set to 'dropdown')
+
+- title: "Another Child Menu Item"
+  url: "https://example.com"
+  parent: about.md # will make this item a child of the about.md item
