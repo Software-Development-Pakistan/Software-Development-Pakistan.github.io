@@ -1,10 +1,10 @@
 # Software-Development-Pakistan.github.io
 
-# Jekyll Theme
+# Community Repository
 
 The used Jekyll theme can be found [here, called Chromatical](https://github.com/chromatical/jekyll-materialdocs).
 
-# Bugs to fix
+# Features to add
 
-- `_data/nav.yml` isn't working as intended. Need to check out why.
-- See how to insert `site.logo`.
+- Structure of README.md
+- Prepare Content
