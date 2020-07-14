@@ -16,6 +16,10 @@ The files stored under Contents/ are as following. Go ahead and click on them to
 4. ### [Recruitment Guidance](https://github.com/Software-Development-Pakistan/Software-Development-Pakistan.github.io/blob/master/Content/Recruitment-guidance.md)
     - A guide for students coming out of University or for those about to graduate, so that they can quickly look at how to prepare themselves for the job market, and land the job that they desire.
 
+## Contribution!
+
+Want to contribute? Please check out the [contributing guidelines]() to get started!
+
 ## Community Repository
 
 The used Jekyll theme can be found [here, called Chromatical](https://github.com/chromatical/jekyll-materialdocs).
