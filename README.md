@@ -18,7 +18,7 @@ The files stored under Contents/ are as following. Go ahead and click on them to
 
 ## Contribution!
 
-Want to contribute? Please check out the [contributing guidelines]() to get started!
+Want to contribute? Please check out the [contributing guidelines](https://github.com/Software-Development-Pakistan/Software-Development-Pakistan.github.io/blob/saif/CONTRIBUTING.md) to get started!
 
 ## Community Repository
 

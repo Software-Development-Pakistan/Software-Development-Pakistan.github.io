@@ -18,3 +18,26 @@ As far as the contributing guidelines for this repository, they are as follows,
 
 1. Go ahead and make some edit in a file where you think something additional can be added
 2. Make that into a Pull Request so that the admins and moderators can review and approve or reject accordingly
+
+# Information About The Structure Of The Content
+
+## Career Paths
+
+Each header for the fields should include,
+
+1. An Introduction
+2. Technologies
+3. Getting Started
+4. Learning Materials ( link to the learning materials file )
+
+## FAQ
+
+The top portion should contain the FAQs, and they should be linked to the headers in the below section
+
+## Learning Resources
+
+
+
+## Recruitment Guidance
+
+Need help here
