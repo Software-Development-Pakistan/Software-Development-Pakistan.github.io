@@ -12,6 +12,7 @@ Members are encouraged to ask questions in the group if they need more info spec
     - [Top Tier](#top-tier)
     - [Middle Tier](#middle-tier)
     - [The Rest](#the-rest)
+  - [General Advice For University](#general-advice-for-university)
     - [The Alumni](#the-alumni)
     - [The Free Time](#the-free-time)
     - [Extra Cirricular](#extra-cirricular)
@@ -19,10 +20,10 @@ Members are encouraged to ask questions in the group if they need more info spec
     - [Relevancy](#relevancy)
     - [Realistic](#realistic)
     - [Support](#support)
-  - [Self taught programmers](#self-taught-programmers)
-  - [Career and growth](#career-and-growth)
-  - [Online Student Communities!](#online-student-communities)
-  - [Final Notes](#final-notes)
+- [Self taught programmers](#self-taught-programmers)
+- [Career and growth](#career-and-growth)
+- [Online Student Communities!](#online-student-communities)
+- [Final Notes](#final-notes)
 
 ---------
 
@@ -83,6 +84,8 @@ It should be kept in mind that because we have the valuable resource of the Inte
 - The system of marks and GPA discourages students to work on things other than their university syllabus due to the fear of falling behind in grades
 - Lack of guidance about where to even start
 
+## General Advice For University
+
 Whatever University you prefer, you should keep the following things in mind while deciding about it, in general. These points are as follows,
 
 ### The Alumni
@@ -129,7 +132,7 @@ Make sure you have the support needed for whatever you are building. Choose the 
 
 ---------
 
-## Self taught programmers
+# Self taught programmers
 **Q:** Is a university degree necessary for having a career in software development?
 
 **A:** Software companies are running businesses, they don’t care if the candidate they are hiring has a degree in computer science as long as the candidate has the required skills and can help them with running the business. 
@@ -181,7 +184,7 @@ Generally it is expected in the industry that developers have a grasp in the fol
 
 ---------
 
-## Career and growth
+# Career and growth
 **Q:** How do I enhance my chances of getting hired as a programmer?
 
 **A:** The following are some good resources to answer this:
@@ -226,7 +229,7 @@ Also, check out these,
 **A:** Don’t just watch lectures, but also apply the learning in your own projects. Start with replicating what the instructors are doing in the video lecture.
 After a while, when you are somewhat confident with your skills. Think of a small project, write some objectives for it and start building the project. You’ll hit many walls while doing that but the learning will be priceless fixing those problems.
 
-## Online Student Communities! 
+# Online Student Communities! 
 
 Before you finally leave, here are some events or communities for students that they should definitely keep an eye out for. 
 
@@ -244,4 +247,6 @@ Before you finally leave, here are some events or communities for students that 
 - [Amazon Student Partner](https://aws.amazon.com/education/awseducate/)
   - Bring AWS Educate to your institution. Put the power of cloud learning in the hands of all instructors and students. By signing up as an AWS Educate member institution, your students and staff receive additional benefits, including more AWS Promotional Credit. Not sure if your school has joined? View our membership list.
 
-## Final Notes
+# Final Notes
+
+At the start, all of these seems heavily overwhelming since there are so many things to do, and so much to look into, but if you keep at it, you'll learn a lot, if not, more than all of this. Patience, discipline, and a strong self of self belief, confidence, determination is more often the not the winning point of successful people. Good luck!
