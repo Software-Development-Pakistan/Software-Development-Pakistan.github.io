@@ -57,6 +57,7 @@ As a first step forward, we've seperated these resources by domain. But if you h
 	- [100 Days of Swift](https://www.hackingwithswift.com/100) - Youtube Videos + Text Expalantion
 	- [Stanford's course on iTunes](https://itunes.apple.com/us/course/developing-ios-11-apps-with-swift/id1309275316) - It's a complimentary course from Apple :)
 
+
 ## AI/ML
 - [Andrew NG on Coursera](https://www.coursera.org/courses?query=machine%20learning%20andrew%20ng) - Best Rated by community members - 100% Financial Aid is available for all the courses on Coursera, [here's more details](https://www.facebook.com/groups/softdevpk/?post_id=953070381816654&comment_id=953426811781011)
 - [University of Helsinki](https://course.elementsofai.com/)
