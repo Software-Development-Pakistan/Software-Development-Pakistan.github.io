@@ -2,7 +2,30 @@
 
 Data Science is a HUGE field, and it has been called one of the most highest paying jobs for the coming years. It's a long journey, but here's a way to get started with it!
 
-***NOTE:*** This guide is meant to present `Data Science` as a full stack field, not limited to just building models, but rather exploring the market possibilities and the tools that fortune 500 companies to small scale companies use for to make business related decisions for the `agile` moto of `quick to market`. Take this guide to not only getting good at making models for data, but rather diving deep into how you think about handling data in anycase, and in the different ways you can easily incorporate data science to make some easy predictions!
+## Table Of Contents
+- [Data Science](#data-science)
+  - [Table Of Contents](#table-of-contents)
+  - [Please Read First](#please-read-first)
+  - [An Introduction](#an-introduction)
+  - [Technologies](#technologies)
+  - [Getting Started](#getting-started)
+  - [Learning Materials](#learning-materials)
+    - [Books To Look Into](#books-to-look-into)
+    - [Misc Books](#misc-books)
+    - [Competitions](#competitions)
+    - [Blogging](#blogging)
+    - [Research Purposes](#research-purposes)
+    - [Artifical Intelligence Concept List](#artifical-intelligence-concept-list)
+    - [Full Stack Data Science](#full-stack-data-science)
+    - [Machine Learning + Deep Learning](#machine-learning--deep-learning)
+    - [Reinforcement Learning](#reinforcement-learning)
+    - [Data Engineering / Analysis](#data-engineering--analysis)
+    - [Courses](#courses)
+    - [References](#references)
+
+## Please Read First
+
+This guide is meant to present `Data Science` as a full stack field, not limited to just building models, but rather exploring the market possibilities and the tools that fortune 500 companies to small scale companies use for to make business related decisions for the `agile` moto of `quick to market`. Take this guide to not only getting good at making models for data, but rather diving deep into how you think about handling data in anycase, and in the different ways you can easily incorporate data science to make some easy predictions!
 
 ## An Introduction
 
@@ -38,21 +61,19 @@ Libraries? R has a ton of them for statistical measures. Python has them, too. S
 
 ## Learning Materials
 
-### BOOKS TO LOOK INTO 
+### Books To Look Into
 - Building Machine Learning Pipelines by Hannes Hapke & Catherine Nelson - August 2020 
 - Deep Learning, Ian Goodfellow, Yoshua Bengio, and Aaron Courville 
 - Hands On Machine Learning With Scikit Learn, Keras, And Tensorflow – O'Reilly, Aurelien Geron 
 - Pattern Recognition And Machine Learning, Christopher M. Bishop 
 
-### MISC BOOKS 
+### Misc Books
 - Automate The Boring Stuff With Python, Practical Programming For Total Beginners, Al Sweigart 
 
-### COMPETITIONS 
-
+### Competitions
 - [Kaggle is love! <3>](https://kaggle.com) 
 
-### BLOG 
-
+### Blogging 
 If you like writing blog posts for you data science findings, try out these
 
 - With [FastPages](https://github.com/fastai/fastpages ) ( Jupyter Notebook ) 
@@ -60,7 +81,6 @@ If you like writing blog posts for you data science findings, try out these
 - [Medium](https://medium.com)
 
 ### Research Purposes 
-
 - Arxiv Sanity 
 - Made With ML 
 - Papers With Code 
@@ -76,7 +96,7 @@ If you like writing blog posts for you data science findings, try out these
   - Feed-Forward Networks, Back-Propagation, Convolutional Networks, Recurrent Networks
   - Context-Free Grammar, N-Gram Models, Naïve Bayes, tf-idf, word2vec 
 
-### FULL STACK DATA SCIENCE 
+### Full Stack Data Science 
 - Setting Up [Machine Learning Projects](https://course.fullstackdeeplearning.com/course-content/setting-up-machine-learning-projects), 
 - [Infrastructure And Tooling](https://course.fullstackdeeplearning.com/course-content/infrastructure-and-tooling)
 - [Data Management](https://course.fullstackdeeplearning.com/course-content/data-management)
@@ -85,7 +105,7 @@ If you like writing blog posts for you data science findings, try out these
 - [Testing And Deployment](https://course.fullstackdeeplearning.com/course-content/testing-and-deployment )
 - [Research Areas](https://course.fullstackdeeplearning.com/course-content/research-areas )
 
-### MACHINE LEARNING + DEEP LEARNING 
+### Machine Learning + Deep Learning
 - Tools 
   - Frameworks 
   - Libraries 
