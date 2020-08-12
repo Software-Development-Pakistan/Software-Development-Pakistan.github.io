@@ -1,27 +1,14 @@
-
-# Welcome to SoftDevPk - Learning Resources!
-
-  
+# Welcome to SoftDevPk - Learning Resources!  
 
 Here, we have list down some of the common learning resources for different domains which has been used by professionals as well as students.
 
-  
-
 These resources has been compiled from either already asked question on our [Community group](https://www.facebook.com/groups/softdevpk/) on facebook or where needed, we've asked fresh questions to gather feedback.
-
-  
 
 As a first step forward, we've seperated these resources by domain. But if you have any recommendations/suggestions, please feel free to create an issue with a relevant a flag ([See contribution guidelines](https://github.com/Software-Development-Pakistan/Software-Development-Pakistan.github.io/blob/master/CONTRIBUTING.md)).
 
-  
-
 ## Web Development
 
-  
-
-##### Video Resources
-
-  
+##### Video Resources  
 
 1.  [Coding Tech](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ)
 
@@ -37,17 +24,12 @@ As a first step forward, we've seperated these resources by domain. But if you h
 
 7.  [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)
 
-  
-
-##### Reading Resources
-
-  
+##### Reading Resources  
 
 1. For all your JS needs, [JavaScript Info](https://javascript.info/)!
 
 2. For newbies wanting a more comprehensive and detailed guide, [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)!  
   
-
 ## Mobile Development
 
 -  **React Native (Android + IOS)**
@@ -74,7 +56,6 @@ As a first step forward, we've seperated these resources by domain. But if you h
 	- [Official Documentation](https://developer.apple.com/swift/)  
 	- [100 Days of Swift](https://www.hackingwithswift.com/100) - Youtube Videos + Text Expalantion
 	- [Stanford's course on iTunes](https://itunes.apple.com/us/course/developing-ios-11-apps-with-swift/id1309275316) - It's a complimentary course from Apple :)
-  
 
 ## AI/ML
 - [Andrew NG on Coursera](https://www.coursera.org/courses?query=machine%20learning%20andrew%20ng) - Best Rated by community members - 100% Financial Aid is available for all the courses on Coursera, [here's more details](https://www.facebook.com/groups/softdevpk/?post_id=953070381816654&comment_id=953426811781011)
