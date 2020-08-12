@@ -4,7 +4,6 @@ The following tries to answer some of the frequently recurring questions on the 
 
 Members are encouraged to ask questions in the group if they need more info specific to their situation. 
 
-
 ## Table Of Contents
 - [Frequently Asked Questions ( FAQs )](#frequently-asked-questions--faqs-)
   - [Table Of Contents](#table-of-contents)

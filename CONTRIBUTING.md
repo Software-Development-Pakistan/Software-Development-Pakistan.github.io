@@ -14,30 +14,33 @@ Give more to this group than you take. Self-promotion, spam and irrelevant links
 4. Respect everyone's privacy
 Being part of this group requires mutual trust. Authentic, expressive discussions make groups great, but may also be sensitive and private. What's shared in the group should stay in the group.
 
-As far as the contributing guidelines for this repository, they are as follows,
+## Got something to add / share?
+
+Contributions are heavily appreciated. It's the community that makes the group the truly spirited and unique group that it is. As far as the contributing guidelines for this repository, they are as follows,
 
 1. Go ahead and make some edit in a file where you think something additional can be added
 2. Make that into a Pull Request so that the admins and moderators can review and approve or reject accordingly
+3. Want to start a discussion about something that is missing? Make an issue! If the idea is helpful to everyone, we'll consider adding it into the main master repository.
 
 # Information About The Structure Of The Content
 
 ## Career Paths
 
-Each header for the fields should include,
-
-1. An Introduction
-2. Technologies
-3. Getting Started
-4. Learning Materials ( link to the learning materials file )
+It's a folder than contains the names of the fields as individual file names. It's the goto place if you need help getting startd in a specific field.
 
 ## FAQ
 
-The top portion should contain the FAQs, and they should be linked to the headers in the below section
+Self explanatory. Contains basic and most commonely asked questions in Pakistan / The FB group about the SE / CS industry and how to get started. 
 
 ## Learning Resources
 
-
+Contains main meta links and references for quick information to serve as a overview.
 
 ## Recruitment Guidance
 
-Need help here
+Contains information about how to keep your career growing and which areas to focus on.
+
+# Needs Help With...
+
+- `Career Paths/androidev.md` 
+- There is no Career Path for game development

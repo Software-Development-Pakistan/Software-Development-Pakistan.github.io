@@ -6,9 +6,25 @@ These resources has been compiled from either already asked question on our [Com
 
 As a first step forward, we've seperated these resources by domain. But if you have any recommendations/suggestions, please feel free to create an issue with a relevant a flag ([See contribution guidelines](https://github.com/Software-Development-Pakistan/Software-Development-Pakistan.github.io/blob/master/CONTRIBUTING.md)).
 
-## Web Development
+***NOTE:*** This list is meant to be a general guide / overview for some quick references and links. For a complete `career path` for certain fields, checkout the `Career Paths` folder.
 
-##### Video Resources  
+***NOTES - 2:*** Personal advice, while at first glance, the variety and diversity of resources looks fantastic, they can easily overhelm you in the longer run, and it's best not advised to do everything single thing mentioned here. Instead, take away from here what is useful for you, and just applying that knowledge to what you already know should be enough foryou. You're human, understand that, your time, focus, concentration is important, valuable, and limited. Once you feel like you got a good hang of something, go ahead and change your learning to something else. It might be that reading half a book should do enough for you, or just getting the bascis of something running gives you really good understanding - if that's the case, go ahead and apply it, and show the world what you know! Anybody can learn, but good projects and excellent work come from creativity, discipline, and a solid plan. Don't burden yourself with an [imposter syndrome ](https://www.youtube.com/watch?v=ZQUxL4Jm1Lo), or feelings of `not there yet` - just keep working on your goals, and one day or another, you'll have your moment. Keep going! 
+
+## Table Of Contents
+- [Welcome to SoftDevPk - Learning Resources!](#welcome-to-softdevpk---learning-resources)
+	- [Table Of Contents](#table-of-contents)
+- [Web Development](#web-development)
+	- [Video Resources](#video-resources)
+	- [Reading Resources](#reading-resources)
+- [Mobile Development](#mobile-development)
+- [AI/ML](#aiml)
+	- [Mathematics](#mathematics)
+- [Data Structure & Algorithms [TBD]](#data-structure--algorithms-tbd)
+- [Misc](#misc)
+
+# Web Development
+
+## Video Resources  
 
 1.  [Coding Tech](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ)
 
@@ -24,13 +40,13 @@ As a first step forward, we've seperated these resources by domain. But if you h
 
 7.  [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)
 
-##### Reading Resources  
+## Reading Resources  
 
 1. For all your JS needs, [JavaScript Info](https://javascript.info/)!
 
 2. For newbies wanting a more comprehensive and detailed guide, [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)!  
   
-## Mobile Development
+# Mobile Development
 
 -  **React Native (Android + IOS)**
 
@@ -58,7 +74,7 @@ As a first step forward, we've seperated these resources by domain. But if you h
 	- [Stanford's course on iTunes](https://itunes.apple.com/us/course/developing-ios-11-apps-with-swift/id1309275316) - It's a complimentary course from Apple :)
 
 
-## AI/ML
+# AI/ML
 - [Andrew NG on Coursera](https://www.coursera.org/courses?query=machine%20learning%20andrew%20ng) - Best Rated by community members - 100% Financial Aid is available for all the courses on Coursera, [here's more details](https://www.facebook.com/groups/softdevpk/?post_id=953070381816654&comment_id=953426811781011)
 - [University of Helsinki](https://course.elementsofai.com/)
 - [Cornell University](https://arxiv.org/abs/1805.05052v1) - In case if you perfer text over media :)
@@ -69,5 +85,32 @@ As a first step forward, we've seperated these resources by domain. But if you h
 - [Essential Maths for programmers](https://www.freecodecamp.org/news/learn-algebra-to-improve-your-programming-skills/) - Very relevant especially for self-taught programmers.
 - Khan Academy [Pre-Calculus](https://www.khanacademy.org/math/precalculus) and [Calculus](https://www.khanacademy.org/math/calculus-1)
 - Discrete Maths (TBD)
+- [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) - his Differential Calculus and Linear Algebra series are short, fascinating, and extremely easy to understand. One of the biggest Mathematics YT channel recommended for CS / SE / IT students.
 
-## Data Structure & Algorithms [TBD]
+# Data Structure & Algorithms [TBD]
+
+The concepts in Data Structures / Algorithms by themselves aren't hard - however, it's the creativity and implementation of those ideas that makes people think a lot. An easy way to get very good at Data Structures / Algorithms is to just keep practicing and practicing. Look up LeetCode and CodeForces that have TONS of questions for Data Structures / Algorithms.  
+
+While practically, you will rarely ever need to write the code for the data structures from scratch by yourself, and you will most likely use a third party library and that is already optimized in many different ways, you should know what to use, and where one data structure is better than some other data structure, and why exactly that is the case. 
+
+What other resources can you find? Try out.
+- [Competitive Programming](https://cpbook.net/) contains from easy to in depth practical analysis of data structures for implementation.
+- [Visualgo.net](https://visualgo.net/en) is a pretty excellent place if you want a general visual overview of all the different kinds of tools that we have in Data Structures.
+- [MIT Open CourseWare - CS 6.006](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-spring-2008/), a must for students bored of their current cirriculum and looking at what MIT has to offer.
+- [Book - Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844) is heavily recommended in data structure courses, but it can be heavy and too much to digest since it is a really long book. If you're already familiar with all of these, and are still reading, but want some theoratical sense of what the underlying ideas are behind the Data Structures / Algorithms,  please do read this book.
+- [The Algorithm Design Manual](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202) is an excellent hands on guide for quickly getting to the practical parts of how algorithms work. A must recommend.
+
+Some related posts on Facebook page,
+
+- [Muhammad AbuBakar](https://web.facebook.com/groups/softdevpk/permalink/1046698715787153/)
+- [Azeem Akhtar](https://web.facebook.com/groups/softdevpk/permalink/959172294539796/)
+- [Ahmed Musawar](https://web.facebook.com/groups/softdevpk/permalink/1046305165826508/)
+- [Muhammad Kamran Qadri](https://web.facebook.com/groups/softdevpk/permalink/966099857180373/)
+- [Muhammad Kamran Qadri](https://web.facebook.com/groups/softdevpk/permalink/966755790448113/)
+
+# Misc
+
+Some awesome guides!
+
+- [Teach Yourself CS](https://teachyourselfcs.com/)
+- [Daniel Bourke's Map For Data Science](https://whimsical.com/CA7f3ykvXpnJ9Az32vYXva)
