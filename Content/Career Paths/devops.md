@@ -17,6 +17,7 @@ So the idea has been mainly on focusing on automation in order to make changes a
   - [An Introduction](#an-introduction)
   - [Technologies](#technologies)
   - [Getting Started](#getting-started)
+  - [FAQ](#faq)
   - [Learning Materials](#learning-materials)
     - [For Testing Software](#for-testing-software)
     - [Doing the Jobs of Ops](#doing-the-jobs-of-ops)
@@ -55,6 +56,8 @@ Before you get started, you should be familiar with these ideas,
 - Working With A CLI
 - Containerization
 - Versioning Systems
+
+## FAQ
 
 ## Learning Materials
 

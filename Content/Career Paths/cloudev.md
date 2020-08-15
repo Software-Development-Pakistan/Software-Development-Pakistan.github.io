@@ -8,7 +8,9 @@ Cloud Development refers to the modern usage of 3rd party [serverless architectu
   - [An Introduction](#an-introduction)
   - [Technologies](#technologies)
   - [Getting Started](#getting-started)
+  - [FAQ](#faq)
   - [Learning Materials](#learning-materials)
+    - [Courses](#courses)
 
 ## An Introduction
 
@@ -20,9 +22,7 @@ The invention or modern usage of Cloud Development refers to the problem that ma
 
 With newer technology and fields like machine learning, modern web development and computer graphics rolling out, it became increasingly harder and challenging to maintain the hwardware yourself. The problem goes like this,
 
-```
-With the ever increasing number of customers, you need to have good hardware to meet the needs of those customers. To maintain and keep that hardware upto date, you will need to buy servers and computers, and have someone maintain them for you, and to also keep those upto date, up and running.
-```
+> With the ever increasing number of customers, you need to have good hardware to meet the needs of those customers. To maintain and keep that hardware upto date, you will need to buy servers and computers, and have someone maintain them for you, and to also keep those upto date, up and running.
 
 As websites transformed in web applications, and new people coming into machine learning needed some good basic hardware to help them to quickly start their journey into Data Science and Big Data, the need for easy access to hardware started to grow even more. That's the problem that the Cloud attempts to solve. It lets developers focus on the work at hand, while letting the `Cloud` handle the computing and memory needs that their product needs for quick assessment. 
 
@@ -44,6 +44,13 @@ You can check [AWS-educate](https://www.awseducate.com/) for AWS, [Microsoft Stu
 
 Each of these give you free credits if you use the Github Education Pack.
 
+## FAQ
+
 ## Learning Materials
 
 Before you get into using the big 3 tools above, you should get somewhat familiar with the ideas in Cloud Computing. Check out the [Edx - Cloud Computing Courses](https://www.edx.org/learn/cloud-computing), list of what you should have a basic idea of, from [Cloud Academy](https://cloudacademy.com/blog/prerequisites-to-learn-cloud-computing-introduction/), or try [Coursera - Cloud Computing Basics](https://www.coursera.org/learn/cloud-computing-basics).
+
+### Courses
+
+- Cloud Architecting With Google Cloud Professional Certificate 
+- Architecting With Google Kubernetes Engine Specialization  

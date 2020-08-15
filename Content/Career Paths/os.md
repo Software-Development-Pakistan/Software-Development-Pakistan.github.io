@@ -15,6 +15,7 @@ Operating Systems refers  to the understanding of lower lying hardware and techn
     - [Security](#security)
     - [Size](#size)
     - [Server Side](#server-side)
+  - [FAQ](#faq)
   - [Learning Materials](#learning-materials)
 
 ## An Introduction
@@ -112,6 +113,8 @@ Remember that linux by itself has no gui. The gui you see in Ubuntu is either Un
 ### Server Side
 
 Debian / Ubuntu are the goto options here. These are the most popular versions of Linux out there, and the ones supported by `AWS`, `Azure`, and `GCP`.
+
+## FAQ
 
 ## Learning Materials
 

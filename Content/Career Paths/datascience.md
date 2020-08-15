@@ -9,6 +9,9 @@ Data Science is a HUGE field, and it has been called one of the most highest pay
   - [An Introduction](#an-introduction)
   - [Technologies](#technologies)
   - [Getting Started](#getting-started)
+  - [General](#general)
+  - [People To Follow](#people-to-follow)
+  - [FAQ](#faq)
   - [Learning Materials](#learning-materials)
     - [Books To Look Into](#books-to-look-into)
     - [Misc Books](#misc-books)
@@ -17,11 +20,18 @@ Data Science is a HUGE field, and it has been called one of the most highest pay
     - [Research Purposes](#research-purposes)
     - [Artifical Intelligence Concept List](#artifical-intelligence-concept-list)
     - [Full Stack Data Science](#full-stack-data-science)
-    - [Machine Learning + Deep Learning](#machine-learning--deep-learning)
+    - [Machine Learning + Deep Learning Topics](#machine-learning--deep-learning-topics)
+    - [Machine Learning frameworks and libraries in C++](#machine-learning-frameworks-and-libraries-in-c)
+    - [Datasets](#datasets)
+    - [Research Papers](#research-papers)
+    - [Mathematical Background](#mathematical-background)
     - [Reinforcement Learning](#reinforcement-learning)
     - [Data Engineering / Analysis](#data-engineering--analysis)
     - [Courses](#courses)
-    - [References](#references)
+    - [Interesting Applications](#interesting-applications)
+    - [Youtube Channels](#youtube-channels)
+    - [MISC](#misc)
+  - [References](#references)
 
 ## Please Read First
 
@@ -59,6 +69,54 @@ Libraries? R has a ton of them for statistical measures. Python has them, too. S
 
 ## Getting Started
 
+## General
+
+- Domingos, Pedro. ["A few useful things to know about machine learning."](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) Communications of the ACM 55, no. 10 (2012): 78-87
+- Shewchuk, Jonathan Richard. ["An Introduction to the Conjugate Gradient Method Without the Agonizing Pain."](http://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf) 1994
+- To understand cost functions better [An Introduction To Understanding Cost Functions](https://www.youtube.com/watch?v=euhATa4wgzo)
+
+## People To Follow
+
+The following people are the big guys in Machine Learning and Deep Learning. You can follow them on twitter and quora. It gives a peek into their lives and how they think. And sometimes their discussions are a great source of learning too.
+
+- Geoffrey Hinton
+- Yoshua Bengio
+- Yann LeCunn
+- Andrew Ng
+- Christopher Manning
+- Andrej Karpathy
+- Ian Goodfellow
+- Fei Fei Li
+- Nando de Freitas
+- Jeremy Howard
+- Rachel Thomas
+- Pieter Abeel
+- Richard Socher
+- Francois Chollet
+- Soumith Chintala
+
+List courtesy of FAST's leading AI society, AIMLC, under ACM
+
+## FAQ
+
+1. So what's the difference between Data Science and Data Engineering?
+
+2. Skills or certificates?
+
+3. What else should I look into? Is Data Science is a complete field in it of itself?
+
+4. Who should I follow for Data Science?
+
+5. What's Data Mining?!
+
+6. Should I really good at Maths to get started with anything at all?
+
+7. I'm not a very good coder. What can I do?
+
+8. I'm not a research kind of person. What can I do?
+
+9. I'm just a student! What can I do?
+
 ## Learning Materials
 
 ### Books To Look Into
@@ -66,6 +124,10 @@ Libraries? R has a ton of them for statistical measures. Python has them, too. S
 - Deep Learning, Ian Goodfellow, Yoshua Bengio, and Aaron Courville 
 - Hands On Machine Learning With Scikit Learn, Keras, And Tensorflow – O'Reilly, Aurelien Geron 
 - Pattern Recognition And Machine Learning, Christopher M. Bishop 
+- An Introduction to Statistical Learning – Trevor Hastie
+- Machine Learning: A Probabilistic Perspective – Kevin P. Murphy
+- Elements of Statistical Learning – Trevor Hastie
+- Deep Learning – Ian Goodfellow, Yoshua Bengio
 
 ### Misc Books
 - Automate The Boring Stuff With Python, Practical Programming For Total Beginners, Al Sweigart 
@@ -105,11 +167,7 @@ If you like writing blog posts for you data science findings, try out these
 - [Testing And Deployment](https://course.fullstackdeeplearning.com/course-content/testing-and-deployment )
 - [Research Areas](https://course.fullstackdeeplearning.com/course-content/research-areas )
 
-### Machine Learning + Deep Learning
-- Tools 
-  - Frameworks 
-  - Libraries 
-  - Algorithms 
+### Machine Learning + Deep Learning Topics
 - Methods
   - Dimensionality Reduction 
   - Ensemble Learning 
@@ -129,16 +187,6 @@ If you like writing blog posts for you data science findings, try out these
   - Unsupervised Learning 
   - Bias-Variance Dilemma 
   - Association Rules 
-- Projects 
-  - DeepMind 
-  - Google Brain 
-  - BERT  
-- Courses 
-  - FAST.AI Part I, II 
-  - CS231n, CS224n, complete course ( homework + assignments + all lectures )
-  - Depth First Learning
-  - DeepLearning.AI 
-  - Introduction To Machine Learning 
 - Pretrained Models ( for transfer learning ) 
   - Tensorflow Hub 
   - PyTorch Hub 
@@ -156,6 +204,39 @@ If you like writing blog posts for you data science findings, try out these
   - GCP – AI Platform 
 
 ( *P.S, Maybe invest in hardware?* )
+
+### Machine Learning frameworks and libraries in C++
+
+This section is courtest of @Andrew Ng!
+
+- [mlpack](http://www.mlpack.org/): a scalable C++ machine learning library.
+- [SHARK](http://image.diku.dk/shark/sphinx_pages/build/html/index.html): a fast, modular, feature-rich open-source C++ machine learning library.
+- [Dlib-ml](http://dlib.net/ml.html): A Machine Learning Toolkit.
+- [Waffles](http://waffles.sourceforge.net/): A collection of command-line tools for researchers in machine learning, data mining, and related fields. All of the functionality is also provided in a clean C++ class library.
+- MLC++: a library of C++ classes for supervised machine learning.
+
+### Datasets
+
+- [KD Nuggets](https://www.kdnuggets.com/datasets/index.html)
+- [Archive UCI](http://archive.ics.uci.edu/ml/index.php)
+- [Kaggle!](https://www.kaggle.com/)
+- [COCO-Text: Dataset for Text Detection and Recognition](https://vision.cornell.edu/se3/coco-text-2/)
+
+### Research Papers
+
+Please check out,
+
+- Arxiv, and arxiv sanity
+- IEEE papers
+
+> Soon to be added later
+
+### Mathematical Background
+- Linear Algebra a. Essence of Linear Algebra - 3blue1brown (YouTube) * b. MIT 18.06 Linear Algebra – Gilbert Strang * c. Coding the matrix – Brown University
+
+- Probability and Statistics a. MIT 6.041 Probabilistic Systems Analysis and Applied Probability – John Tsitsiklis * b. Statistics 110 – Harvard University c. Statistics with R – Duke University (Coursera) d. Discovering Statistics using SPSS – Andy Field (Book) *
+
+- Calculus a. Essence of Calculus – 3blue1brown (YouTube) * b. MIT Highlights of Calculus – Gilbert Strang * c. MIT 18.01 Single Variable Calculus – MIT OCW d. MIT 18.02 Multivariable Calculus – MIT OCW
 
 ### Reinforcement Learning 
 - Deep RL Bootcamp, https://sites.google.com/view/deep-rl-bootcamp/lectures 
@@ -178,19 +259,40 @@ If you like writing blog posts for you data science findings, try out these
 
 ### Courses
 - Introduction To Machine Learning, Coursera, Andrew Ng 
-- Deeplearning.Ai specialization, Coursera, Andrew Ng 
+- [Deeplearning.Ai Specialization](https://www.coursera.org/specializations/deep-learning), Coursera, Andrew Ng 
 - Tensorfow in Practice, Coursera, George  
 - Data Engineering With Google cloud Certificate, Coursera 
 - The UNIX workbench, Coursera 
 - Data Science: Statistics And Machine Leaning Specialization, Coursera 
 - Data Science: Foundations Using R Specialization, Coursera 
-- Architecting With Google Kubernetes Engine Specialization  
-- Cloud Architecting With Google Cloud Professional Certificate 
 - DevOps Culture And Mindset  
 - Machine Learning With Tensorflow On Google Cloud Platform 
-- [FAST AI MOOC](https://course.fast.ai/)
+- [FAST AI MOOC](https://course.fast.ai/), Part I and II
+- CS231n, A MIT Open Course specifically for Computer Vision
+- CS224n, A MIT Open Course specifically for Natural Language Processing
+- [Mathematics for Machine Learning Specialization](https://www.coursera.org/specializations/mathematics-machine-learning)
+- [Depth First Learning](https://www.depthfirstlearning.com/)
+- [CS224w ML with Graphs](https://twitter.com/sannykimchi/status/1294285085672431618)
+- [CS229 Machine Learning - Stanford](http://cs229.stanford.edu/materials.html) - This is the Stanford CS course on Machine Learning that Prof Ng has taught for a number of years. The material parallels the Coursera course, but covers some additional topics and goes into much more depth on the mathematics.
+- [Cornell Virtual Workshop](https://cvw.cac.cornell.edu/default)
+- [Dive Into Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning) 
 
-### References
+### Interesting Applications
+- Castillo, Carlos, Marcelo Mendoza, and Barbara Poblete. ["Information credibility on Twitter."](http://www.ra.ethz.ch/cdstore/www2011/proceedings/p675.pdf) In Proceedings of the 20th international conference on World wide web, pp. 675-684. ACM, 2011.
+- Norman, Kenneth A., Sean M. Polyn, Greg J. Detre, and James V. Haxby. ["Beyond mind-reading: multi-voxel pattern analysis of fMRI data."](https://www.cs.princeton.edu/courses/archive/spr07/cos424/papers/NormanEtAlTICS.pdf) Trends in cognitive sciences 10, no. 9 (2006): 424-430.
+- Pereira, Francisco, Tom Mitchell, and Matthew Botvinick. ["Machine learning classifiers and fMRI: a tutorial overview."](https://web.stanford.edu/group/bad/talks/classification_fmri.pdf) Neuroimage 45, no. 1 Suppl (2009): S199.
+
+### Youtube Channels
+- For Causal Inference, I’d highly recommend @mattmasten’s Causal Inference bootcamp. Over 100 videos to understand ideas like counterfactuals, instrumental variables, differences-in-differences, regression discontinuity... (from an econ/ss perspective) /10[Mod•U: Powerful Concepts in Social Science](https://www.youtube.com/c/ModUPowerfulConceptsinSocialScience/playlists)
+> Courtesy of @sannykimchi
+
+### MISC
+Information that doesn't really fall into a concrete place here,
+
+- Are you ever confused about cluster computing, containers or scaling experiments? Then Stanford’s  @stats285 might be a great way to better understand cloud computing, distributed tools and research infrastructure /8[Massive Computational Experiments, Painlessly](https://www.researchgate.net/project/Massive-Computational-Experiments-Painlessly) 
+> Courtesy of @sannykimchi
+
+## References
 
 - A [mind map](https://whimsical.com/CA7f3ykvXpnJ9Az32vYXva) of the things listed above, thanks to [Daniel Bourke](https://www.mrdbourke.com/), you can check out his YT channel [here](https://www.youtube.com/channel/UCr8O8l5cCX85Oem1d18EezQ) 
 - Data Engineering, [comprehensive list](https://www.analyticsvidhya.com/blog/2018/11/data-engineer-comprehensive-list-resources-get-started/) to get started 

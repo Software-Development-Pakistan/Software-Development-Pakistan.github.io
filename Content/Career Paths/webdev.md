@@ -6,6 +6,7 @@
   - [An Introduction](#an-introduction)
   - [Technologies](#technologies)
   - [Getting Started](#getting-started)
+  - [FAQ](#faq)
   - [Learning Materials](#learning-materials)
 
 ## An Introduction
@@ -83,6 +84,8 @@ Where,
 There aren't many pre requisites for starting web dev. A general beginner's approach is to understand what frontend development firstly is, and then move towards a backend stage. There are A LOT of technologies out there, and it is not advised that you sit down to learn everything - commmon myth that learning more and more will make you more *experienced*. Usually, HTML is recommended, then CSS, then JS, and then either VueJS, AngularJS, or ReactJS for some front end fun parts. For starters, some good hands on knowledge with NodeJS and ExpressJS is recommend as well - just the basics of how to get started. 
 
 After that, try out deploying one of your creations somewhere on a web hosting website, such as Heroku, MS Azure, GCP, or AWS! If you're a student, please do check out the [Github Education Pack](education.github.com) which has free credits for many popular services for university students just trying to put their work out there.
+
+## FAQ
 
 ## Learning Materials
 
