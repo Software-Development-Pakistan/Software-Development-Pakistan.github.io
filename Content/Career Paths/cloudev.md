@@ -5,14 +5,24 @@ Cloud Development refers to the modern usage of 3rd party [serverless architectu
 ## Table Of Contents
 - [Cloud Dev](#cloud-dev)
   - [Table Of Contents](#table-of-contents)
-  - [An Introduction](#an-introduction)
-  - [Technologies](#technologies)
-  - [Getting Started](#getting-started)
-  - [FAQ](#faq)
-  - [Learning Materials](#learning-materials)
-    - [Courses](#courses)
+- [Please Read First](#please-read-first)
+- [An Introduction](#an-introduction)
+- [Technologies](#technologies)
+- [General](#general)
+- [Getting Started](#getting-started)
+- [People To Follow](#people-to-follow)
+- [FAQ](#faq)
+- [Learning Materials](#learning-materials)
+  - [Books To Look Into](#books-to-look-into)
+  - [Courses](#courses)
+  - [Interesting Applications](#interesting-applications)
+  - [Youtube Channels](#youtube-channels)
+  - [MISC](#misc)
+- [References](#references)
 
-## An Introduction
+# Please Read First
+
+# An Introduction
 
 The invention or modern usage of Cloud Development refers to the problem that many factors related problems in the sofware development lifecycle. To put it into very brief words,
 
@@ -28,7 +38,7 @@ As websites transformed in web applications, and new people coming into machine 
 
 `Cloud Development` thus basically refers to how you can run `containerized` applications that everyone can use everywhere, anytime, anywhere, with the only requirement being that you need an internet access to fulfill your needs. 
 
-## Technologies
+# Technologies
 
 Some basic technologies are already well known as,
 
@@ -38,19 +48,34 @@ Some basic technologies are already well known as,
 
 Each of these three are very easy to get into, and each have their own programs for students willing to understand and work with their technologies. Each offer their own certifications and work related courses. Do check them out!
 
-## Getting Started
+# General
+
+# Getting Started
 
 You can check [AWS-educate](https://www.awseducate.com/) for AWS, [Microsoft Student Partner](https://studentambassadors.microsoft.com/) and [Azure For Students](https://azure.microsoft.com/en-us/free/students/) for Azure, and [GCP EDU](https://edu.google.com/products/google-cloud/) for GCP.
 
 Each of these give you free credits if you use the Github Education Pack.
 
-## FAQ
+# People To Follow
 
-## Learning Materials
+# FAQ
+
+# Learning Materials
 
 Before you get into using the big 3 tools above, you should get somewhat familiar with the ideas in Cloud Computing. Check out the [Edx - Cloud Computing Courses](https://www.edx.org/learn/cloud-computing), list of what you should have a basic idea of, from [Cloud Academy](https://cloudacademy.com/blog/prerequisites-to-learn-cloud-computing-introduction/), or try [Coursera - Cloud Computing Basics](https://www.coursera.org/learn/cloud-computing-basics).
 
-### Courses
+## Books To Look Into
+
+## Courses
 
 - Cloud Architecting With Google Cloud Professional Certificate 
 - Architecting With Google Kubernetes Engine Specialization  
+
+## Interesting Applications
+
+## Youtube Channels
+
+## MISC
+
+# References
+

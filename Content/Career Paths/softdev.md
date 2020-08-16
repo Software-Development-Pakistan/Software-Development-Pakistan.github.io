@@ -3,18 +3,42 @@
 ## Table Of Contents
 - [Software Development](#software-development)
   - [Table Of Contents](#table-of-contents)
-  - [An Introduction](#an-introduction)
-  - [Technologies](#technologies)
-  - [Getting Started](#getting-started)
-  - [FAQ](#faq)
-  - [Learning Materials](#learning-materials)
+- [Please Read First](#please-read-first)
+- [An Introduction](#an-introduction)
+- [Technologies](#technologies)
+- [General](#general)
+- [Getting Started](#getting-started)
+- [People To Follow](#people-to-follow)
+- [FAQ](#faq)
+- [Learning Materials](#learning-materials)
+  - [Courses](#courses)
+  - [Books To Look Into](#books-to-look-into)
+  - [Youtube Channels](#youtube-channels)
+  - [MISC](#misc)
+- [References](#references)
 
-## An Introduction
+# Please Read First
 
-## Technologies
+# An Introduction
 
-## Getting Started
+# Technologies
 
-## FAQ
+# General
 
-## Learning Materials
+# Getting Started
+
+# People To Follow
+
+# FAQ
+
+# Learning Materials
+
+## Courses
+
+## Books To Look Into
+
+## Youtube Channels
+
+## MISC
+
+# References
