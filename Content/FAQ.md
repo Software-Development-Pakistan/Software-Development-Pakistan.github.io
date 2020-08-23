@@ -19,6 +19,12 @@ Members are encouraged to ask questions in the group if they need more info spec
     - [Relevancy](#relevancy)
     - [Realistic](#realistic)
     - [Support](#support)
+- [Working Towards A Good Graduation](#working-towards-a-good-graduation)
+  - [Being Clear About Your Goals!](#being-clear-about-your-goals)
+  - [Is 4 Years Enough To Learn About Something?](#is-4-years-enough-to-learn-about-something)
+  - [Show Off Your Projects!](#show-off-your-projects)
+  - [Contributing To OSS](#contributing-to-oss)
+  - [Questions](#questions)
 - [Self taught programmers](#self-taught-programmers)
 - [Career and growth](#career-and-growth)
 - [Online Student Communities!](#online-student-communities)
@@ -128,6 +134,74 @@ Make sure you have the support needed for whatever you are building. Choose the 
 **Q:** Should I go for a masters degree right after graduation or is it better to have some experience before?
 
 **A:** Some good insights here.
+
+---------
+
+# Working Towards A Good Graduation
+
+While it is important that you concentrate and focus on your university's course outline or goals, most development and growth comes from having a good plan, a clear goal in sight, hardwork, patience, and discipline. 
+
+It's important that you work with the time you have in University and build yourself up slowly by steadily. Here are some tips that are hopefully useful to you.
+
+## Being Clear About Your Goals!
+
+CS and SE ain't that hard - you can do anything you put your mind to. Even if it's `Data Science`, `Web Development`, `Operating Systems`, `Android Development`, you can learn pretty much anything you put your mind to. So firstly, the myth that,
+
+```
+I won't be good enough at this
+```
+
+Is just plain wrong. CS and SE students have their unique perspectives to offer, and their way of communication and ideas and the solutions they offer is what sets them apart from non technical people. While some people spend so much of their lives focusing on just learing how to use and get better with certain tools, CS / SE students spend time thinking about making software like that everyday! Doesn't like feel like a superpower? Which bascially means again, if you put enough time into something, you'll definitely get good at it.
+
+So, now, all you have to do, is decide what to work on, and what to emphasize on.
+
+## Is 4 Years Enough To Learn About Something?
+
+4 years is definitely a lot from a growth perspective. Time comes and time goes, you might not be the best at what you learn, and that's completely fine. The point is to keep working on projects, keep trying to grow, and keep exploring and trying to grow your skill set. Not trying hurts, and it's better that you try your best in something, even though it might not give you 100% of the results you expect, because at the end of the day, you will learn something while doing so.
+
+To quote someone from Quora,
+```
+"Remember it is not the money which converts into competency…… It is the competency which converts into money."
+- [What you should know after graduation as a software engineer to get a job easily?](https://www.quora.com/What-you-should-know-after-graduation-as-a-software-engineer-to-get-a-job-easily)
+```
+
+## Show Off Your Projects!
+
+The number one thing most university students are clueless about in their semesters are the projects that they want to work on. Some build very simple, done and dusted stuff, some like to go all out and do what they can, coming up with original, long, and big ideas, some lie in between.
+
+But mostly, everyone shares the common problem of thinking of ideas in the first place. 
+
+And while that project may well for the grading side, it's not something that students really show in their CVs and resumes because it isn't that great. 
+
+But while the projects themselves can be simple, it gives your employers in the future more things to look at. For example,
+
+1. How quickly you were able to learn something and build something practical with it
+2. How creatively you can think about problems
+3. What approaches you took to counter your problems
+
+But perhaps the most common dilemma is that people don't show off their work.
+
+Have a small project that you did for OOP or PF that worked with web development? Put it on your CV! Someone might be looking for a junior or intern web developer. 
+
+Good at networking and made a small example of TCP / IP protocols in your project? Put it on your CV! Someone might be looking for students who understand networking.
+
+Made a small project for database that tried to emulate different distributed databases and such? Put it on your CV! Someone might be looking for a database engineer.
+
+The point is, you never know! 
+
+## Contributing To OSS
+
+Contributing to OSS might be a good way depending on your field of interest to show others that you are a willing contributor and who wants to give back to the community. Contributing back to OSS means that you,
+
+1. Are able to understand and read code
+2. Find it easy to expand with the ideas that other people have
+3. Are good at communication and willing to talk and debate about different problems
+
+## Questions
+
+**Q:** Should only graduate apply for jobs?
+
+**A:** Nope! You are welcome to apply and open up for internships as you keep growing. Most people do that in their junior year, and some talented folks even earlier.
 
 ---------
 
