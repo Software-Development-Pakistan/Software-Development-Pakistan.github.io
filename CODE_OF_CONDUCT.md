@@ -54,6 +54,9 @@ that are not aligned to this Code of Conduct, or to ban temporarily or
 permanently any contributor for other behaviors that they deem inappropriate,
 threatening, offensive, or harmful.
 
+Basic contributing guidelines include all the previous guidelines from the official [Facebook page](https://web.facebook.com/groups/softdevpk/), which include,
+
+
 ## Scope
 
 This Code of Conduct applies both within project spaces and in public spaces
