@@ -35,7 +35,7 @@ Examples of unacceptable behavior by participants include:
 * Other conduct which could reasonably be considered inappropriate in a
  professional setting
  
- Remember,
+Remember,
  
 * We're all in this together to create a welcoming environment. Let's treat everyone with respect. Healthy debates are natural, but kindness is required.
 * Make sure everyone feels safe. Bullying of any kind isn't allowed, and degrading comments about things such as race, religion, culture, sexual orientation, gender or identity will not be tolerated.
@@ -55,7 +55,6 @@ permanently any contributor for other behaviors that they deem inappropriate,
 threatening, offensive, or harmful.
 
 Basic contributing guidelines include all the previous guidelines from the official [Facebook page](https://web.facebook.com/groups/softdevpk/), which include,
-
 
 ## Scope
 
