@@ -1,9 +1,9 @@
 title: Stackbit Fresh Theme
 baseurl: /
-permalink: '/:title/'
+permalink: "/:title/"
 collections:
   posts:
-    permalink: '/posts/:title/'
+    permalink: "/posts/:title/"
 description: Personal blogging theme for Stackbit
 layout_style: overflow
 palette: blue
@@ -32,35 +32,35 @@ header:
   has_social: true
   social_links:
     - label: Twitter
-      url: 'https://twitter.com/'
+      url: "https://twitter.com/"
       style: icon
       icon_class: fa-twitter
       new_window: true
     - label: Instagram
-      url: 'https://www.instagram.com/'
+      url: "https://www.instagram.com/"
       style: icon
       icon_class: fa-instagram
       new_window: true
     - label: GitHub
-      url: 'https://github.com/'
+      url: "https://github.com/"
       style: icon
       icon_class: fa-github
       new_window: true
     - label: LinkedIn
-      url: 'https://www.linkedin.com/'
+      url: "https://www.linkedin.com/"
       style: icon
       icon_class: fa-linkedin
       new_window: true
     - label: DEV
-      url: 'https://dev.to/'
+      url: "https://dev.to/"
       style: icon
       icon_class: fa-dev
       new_window: true
 footer:
-  content: '&copy; All rights reserved.'
+  content: "&copy; All rights reserved."
   links:
     - label: Made with Stackbit.
-      url: 'https://www.stackbit.com'
+      url: "https://www.stackbit.com"
       style: link
       new_window: true
 sass:
