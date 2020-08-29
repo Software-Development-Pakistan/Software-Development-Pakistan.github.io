@@ -8,7 +8,6 @@ layout: body
 
   <div class="post-feed">
     <div class="post-feed-inside">
-      {% assign display_posts = '/posts' | get_pages | sort: 'date' | reverse %}
       {% for post in display_posts %}
       <article class="post post-card">
         <div class="post-inside">
@@ -20,7 +19,7 @@ layout: body
           {% endif %}
           <header class="post-header">
             <h2 class="post-title"><a href="{{ post.url | relative_url }}" rel="bookmark">{{ post.title }}</a></h2>
-          </header><!-- .post-header -->
+          </header>
           {% assign excerpt_is_not_empty = post.excerpt | is_not_empty %}
           {% if excerpt_is_not_empty %}
           <div class="post-content">
