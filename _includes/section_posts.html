@@ -1,0 +1,44 @@
+{% assign section = include.section %}
+<section id="{{ section.section_id }}" class="block block-posts">
+  {% assign title_is_not_empty = section.title | is_not_empty %}
+  {% if title_is_not_empty %}
+  <h2 class="block-title underline inner-sm">{{ section.title }}</h2>
+  {% endif %}
+  <div class="post-feed">
+    <div class="post-feed-inside">
+      {% assign display_posts = '/posts' | get_pages | sort: 'date' | reverse %}
+      {% assign slice_length = section.posts_number | minus: 0 %}
+      {% assign recent_posts = display_posts | slice: 0, slice_length %}
+      {% for post in recent_posts %}
+      <article class="post post-card">
+        <div class="post-inside">
+          {% assign thumb_img_path_is_not_empty = post.thumb_img_path | is_not_empty %}
+          {% if thumb_img_path_is_not_empty %}
+          <a class="post-thumbnail" href="{{ post.url | relative_url }}"><img src="{{ post.thumb_img_path | relative_url }}" alt="{{ post.title }}" /></a>
+          {% endif %}
+          <header class="post-header">
+            <h3 class="post-title"><a href="{{ post.url | relative_url }}" rel="bookmark">{{ post.title }}</a></h3>
+          </header>
+          {% assign excerpt_is_not_empty = post.excerpt | is_not_empty %}
+          {% if excerpt_is_not_empty %}
+          <div class="post-content">
+            <p>{{ post.excerpt }}</p>
+          </div>
+          {% endif %}
+          <footer class="post-meta">
+            <time class="published"
+              datetime="{{ post.date | date: '%Y-%m-%d %H:%M' }}">{{ post.date | date: '%B %d, %Y' }}</time>
+          </footer>
+        </div>
+      </article><!-- .post -->
+      {% endfor %}
+    </div>
+  </div><!-- .post-feed -->
+  {% assign actions_is_not_empty = section.actions | is_not_empty %}
+  {% if actions_is_not_empty %}
+  <div class="block-buttons inner-sm">
+    
+    {% include cta_buttons.html actions=section.actions %}
+  </div>
+  {% endif %}
+</section><!-- .block -->

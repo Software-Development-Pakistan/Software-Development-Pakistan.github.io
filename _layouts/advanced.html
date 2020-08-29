@@ -1,0 +1,16 @@
+---
+layout: body
+---
+
+  {% assign hide_title_is_empty = page.hide_title | is_empty %}
+  {% if hide_title_is_empty %}
+  <header class="post-header inner-sm">
+    <h1 class="post-title underline">{{ page.title }}</h1>
+  </header><!-- .post-header -->
+  {% endif %}
+
+  {% for section in page.sections %}
+    
+    {% assign component = section.type | append: ".html" %}
+    {% include {{ component }} section=section site=site %}
+  {% endfor %}

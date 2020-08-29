@@ -1,0 +1,26 @@
+{% assign section = include.section %}
+<section id="{{ section.section_id }}" class="block block-form">
+  {% assign title_is_not_empty = section.title | is_not_empty %}
+  {% if title_is_not_empty %}
+  <h2 class="block-title underline inner-sm">{{ section.title }}</h2>
+  {% endif %}
+  <div class="block-content inner-sm">
+    {% assign content_is_not_empty = section.content | is_not_empty %}
+    {% if content_is_not_empty %}
+    {{ section.content | markdownify }}
+    {% endif %}
+    <form name="{{ section.form_id }}" id="{{ section.form_id }}" {% assign form_action_is_not_empty = section.form_action | is_not_empty %}{% if form_action_is_not_empty %} action="{{ section.form_action }}" {% endif %}method="POST" data-netlify="true" data-netlify-honeypot="bot-field">
+      <div class="screen-reader-text">
+        <label>Don't fill this out if you're human: <input name="bot-field" /></label>
+      </div>
+      <input type="hidden" name="form-name" value="{{ section.form_id }}" />
+      {% for field in section.form_fields %}
+        
+        {% include form_field.html field=field %}
+      {% endfor %}
+      <div class="form-submit">
+        <button type="submit" class="button">{{ section.submit_label }}</button>
+      </div>
+    </form>
+  </div>
+</section><!-- .block -->

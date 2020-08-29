@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+    <head>    
+        
+        <title>{% assign title_is_not_empty = page.title | is_not_empty %}{% if title_is_not_empty %}{{ page.title }} - {% endif %}{{ site.title }}</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta name="description" content="{{ page.excerpt | default: site.description }}"/>
+        <link href="https://fonts.googleapis.com/css?family=Roboto:400,400i,700,700i&display=swap" rel="stylesheet"> 
+        <link rel="stylesheet" href="{{ 'assets/css/main.css' | relative_url }}">
+        {% if page.layout == 'post' %} 
+        {% assign canonical_url_is_not_empty = page.canonical_url | is_not_empty %}
+        {% if canonical_url_is_not_empty %}
+        <link rel="canonical" href="{{ page.canonical_url }}"/>
+        {% endif %}
+        {% endif %}
+        
+    </head>
+    <body>
+        
+        {{ content }}
+        <!-- Scripts -->
+        <script src="{{ 'assets/js/plugins.js' | relative_url }}"></script>
+        <script src="{{ 'assets/js/main.js' | relative_url }}"></script>
+    </body> 
+</html>
