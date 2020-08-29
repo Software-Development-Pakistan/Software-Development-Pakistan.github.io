@@ -1,3 +1,4 @@
+remote_theme: stackbithq/stackbit-theme-fresh
 title: Stackbit Fresh Theme
 baseurl: /
 permalink: '/:title/'
