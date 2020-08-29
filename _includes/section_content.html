@@ -1,0 +1,26 @@
+{% assign section = include.section %}
+<section id="{{ section.section_id }}" class="block block-text">
+  {% assign title_is_not_empty = section.title | is_not_empty %}
+  {% if title_is_not_empty %}
+  <h2 class="block-title underline inner-sm">{{ section.title }}</h2>
+  {% endif %}
+  {% assign image_is_not_empty = section.image | is_not_empty %}
+  {% if image_is_not_empty %}
+  <div class="block-image">
+    <img src="{{ section.image | relative_url }}" alt="{{ section.title }}" />
+  </div>
+  {% endif %}
+  {% assign content_is_not_empty = section.content | is_not_empty %}
+  {% if content_is_not_empty %}
+  <div class="block-content inner-sm">
+    {{ section.content | markdownify }}
+  </div>
+  {% endif %}
+  {% assign actions_is_not_empty = section.actions | is_not_empty %}
+  {% if actions_is_not_empty %}
+  <div class="block-buttons inner-sm">
+    
+    {% include cta_buttons.html actions=section.actions %}
+  </div>
+  {% endif %}
+</section><!-- .block -->

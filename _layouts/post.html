@@ -1,0 +1,67 @@
+---
+layout: body
+---
+
+  <article class="post post-full">
+    <header class="post-header inner-sm">
+      <h1 class="post-title underline">{{ page.title }}</h1>
+      {% assign subtitle_is_not_empty = page.subtitle | is_not_empty %}
+      {% if subtitle_is_not_empty %}
+      <div class="post-subtitle">
+        {{ page.subtitle }}
+      </div>
+      {% endif %}
+    </header>
+    {% assign content_img_path_is_not_empty = page.content_img_path | is_not_empty %}
+    {% if content_img_path_is_not_empty %}
+    <div class="post-image">
+      <img src="{{ page.content_img_path | relative_url }}" alt="{{ page.title }}" />
+    </div>
+    {% endif %}
+    <div class="post-content inner-sm">
+      {{ content }}
+    </div>
+    <footer class="post-meta inner-sm">
+      <time class="published"
+        datetime="{{ page.date | date: '%Y-%m-%d %H:%M' }}">{{ page.date | date: '%A, %B %e, %Y' }}</time>
+    </footer>
+  </article><!-- .post -->
+
+  <!-- Next/previous post navigation TBD -->
+  <!--
+  <nav class="block block-read-next">
+    <h2 class="block-title underline inner-sm">Read Next</h2>
+    <div class="post-feed">
+      <div class="post-feed-inside">
+        <article class="post post-card">
+          <div class="post-inside">
+            <a class="post-thumbnail" href="#"><img src="#" alt="" /></a>
+            <header class="post-header">
+              <h3 class="post-title"><a href="#" rel="bookmark">Previous Post Title</a></h3>
+            </header>
+            <div class="post-content">
+              <p>Previous post excerpt...</p>
+            </div>
+            <footer class="post-meta">
+              <time class="published" datetime="">Previous post date</time>
+            </footer>
+          </div>
+        </article>
+        <article class="post post-card">
+          <div class="post-inside">
+            <a class="post-thumbnail" href="#"><img src="#" alt="" /></a>
+            <header class="post-header">
+              <h3 class="post-title"><a href="#" rel="bookmark">Next Post Title</a></h3>
+            </header>
+            <div class="post-content">
+              <p>Next post excerpt...</p>
+            </div>
+            <footer class="post-meta">
+              <time class="published" datetime="">Next post date</time>
+            </footer>
+          </div>
+        </article>
+      </div>
+    </div>
+  </nav>
+  -->
