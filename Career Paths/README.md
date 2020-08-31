@@ -2,7 +2,23 @@
 
 This folder is supposed to serve a purpose as the main page where students, undergraduates, and people generally coming into the field of Computer Sience / Software Engineering, can look up information about the different careers, fields, and how to get into them - basically trying to give an overview of what they can learn and what they can do.
 
-Below is the table of contents that each of the file follows a format against,
+## Table of Contents
+
+- [Android Development](#table-of-contents)
+- [Cloud Development](#table-of-contents)
+- [Data Science](#table-of-contents)
+- [DevOps](#table-of-contents)
+- [Network Security](#table-of-contents)
+- [Operating Systems](#table-of-contents)
+- [Game Development](#table-of-contents)
+- [Software Development](#table-of-contents)
+- [Web Development](#table-of-contents)
+
+## Contribution Template
+
+Copy the content below into a new field folder that you want to write for. The content here is for your guideline, feel free to add or remove any section as you wish.
+
+If you need examples, check the existing career paths documents.
 
 - [Table Of Contents](#table-of-contents), just your table of contents. They list out all the headings from the files
 - [Please Read First](#please-read-first), an introductory guide to give you a sense of how to approach the material
@@ -17,4 +33,4 @@ Below is the table of contents that each of the file follows a format against,
   - [Books To Look Into](#books-to-look-into), this is for all the bookish people out there
   - [Youtube Channels](#youtube-channels), but if you like visual learning, that's also there!
   - [MISC](#misc), anything that doesn't fit above, blogs, list, articles, opinions, slides, lectures etcs
-- [References](#references), things you should read about if you're new and want to research more
+- [References](#references), things you should read about if you're new and want to research more.
