@@ -9,8 +9,8 @@ description: Personal blogging theme for Stackbit
 layout_style: overflow
 palette: blue
 header:
-  title: Stackbit Fresh
-  tagline: Header Tagline
+  title: Software Dev. Pakistan
+  tagline: Pakistan's Biggest Community of Software Developers
   profile_img: images/avatar.png
   background: dark
   has_nav: true
@@ -24,10 +24,10 @@ header:
     - label: Career Paths
       url: /style-guide/
       style: link
-    - label: Learning Resources
+    - label: Learning Res.
       url: /about/
       style: link
-    - label: Contribution Guidelines
+    - label: Contribution
       url: /contact/
       style: link
   has_social: true
