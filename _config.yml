@@ -25,10 +25,10 @@ header:
       url: /career-paths/
       style: link
     - label: Learning Res.
-      url: /about/
+      url: /learning-resources/
       style: link
-    - label: Contribution
-      url: /contact/
+    - label: FAQs
+      url: /FAQs/
       style: link
   has_social: true
   social_links:
