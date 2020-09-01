@@ -1,7 +1,7 @@
 remote_theme: stackbithq/stackbit-theme-fresh
 title: Stackbit Fresh Theme
 baseurl: /
-url: https://software-development-pakistan.github.io/
+url: https://software-development-pakistan.github.io
 permalink: '/:title/'
 collections:
   posts:
