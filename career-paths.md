@@ -1,5 +1,5 @@
 ---
-title: Welcome to SoftDevPk - Career Paths!
+title: Career Paths!
 layout: page
 ---
 

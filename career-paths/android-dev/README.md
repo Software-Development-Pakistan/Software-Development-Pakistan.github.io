@@ -1,4 +1,7 @@
-# Android Development
+---
+title: Android Development
+layout: page
+---
 
 Android Development resources here. Self explanatory
 

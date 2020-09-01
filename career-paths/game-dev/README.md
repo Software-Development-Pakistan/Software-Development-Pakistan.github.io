@@ -1,4 +1,7 @@
-# Game Development
+---
+title: Game Development
+layout: page
+---
 
 ## Table Of Contents
 - [Game Development](#game-development)

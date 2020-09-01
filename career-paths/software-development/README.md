@@ -1,4 +1,7 @@
-# Software Development
+---
+title: Software Development
+layout: page
+---
 
 ## Table Of Contents
 - [Software Development](#software-development)
