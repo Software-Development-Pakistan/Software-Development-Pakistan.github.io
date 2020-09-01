@@ -7,15 +7,15 @@ This folder is supposed to serve a purpose as the main page where students, unde
 
 ## Table of Contents
 
-- [Android Development](#table-of-contents)
-- [Cloud Development](#table-of-contents)
+- [Android Development]({{site.url}}/career-paths/android-dev)
+- [Cloud Development]({{site.url}}/career-paths/cloud-dev)
 - [Data Science](#table-of-contents)
-- [DevOps](#table-of-contents)
-- [Network Security](#table-of-contents)
-- [Operating Systems](#table-of-contents)
-- [Game Development](#table-of-contents)
-- [Software Development](#table-of-contents)
-- [Web Development](#table-of-contents)
+- [DevOps]({{site.url}}/career-paths/devOps)
+- [Network Security]({{site.url}}/career-paths/network-security)
+- [Operating Systems]({{site.url}}/career-paths/OS)
+- [Game Development]({{site.url}}/career-paths/game-dev)
+- [Software Development]({{site.url}}/career-paths/software-dev)
+- [Web Development]({{site.url}}/career-paths/web-dev)
 
 ## Contribution Template
 

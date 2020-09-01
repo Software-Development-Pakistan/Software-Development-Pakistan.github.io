@@ -1,6 +1,7 @@
 remote_theme: stackbithq/stackbit-theme-fresh
 title: Stackbit Fresh Theme
 baseurl: /
+url: http://localhost:4000
 permalink: '/:title/'
 collections:
   posts:
@@ -11,7 +12,7 @@ palette: blue
 header:
   title: Software Dev. Pakistan
   tagline: Pakistan's Biggest Community of Software Developers
-  profile_img: images/avatar.png
+  profile_img: images/avatar.jpeg
   background: dark
   has_nav: true
   nav_links:
@@ -38,8 +39,8 @@ header:
 footer:
   content: '&copy; All rights reserved.'
   links:
-    - label: Made with Stackbit.
-      url: 'https://www.stackbit.com'
+    - label: Made by community members of SDP.
+      url: 'https://www.facebook.com/groups/softdevpk'
       style: link
       new_window: true
 sass:
