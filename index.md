@@ -12,25 +12,22 @@ Welcome to the official repository for Software Development Pakistan! This is su
 To get started, go ahead and check out the files under Content/ to see relevant information. 
 The files stored under Contents/ are as following. Go ahead and click on them to jump directly over to there
 
-1. ### [Career Paths](https://github.com/Software-Development-Pakistan/Software-Development-Pakistan.github.io/tree/master/Career%20Paths)
+1. ### [Career Paths]({{site.url}}/career-paths)
 
 A folder which contains guides for the different fields that might interest you. 
 
 Head over here if you're looking to get started in a specific technology.
 
-2. ### [FAQ](https://github.com/Software-Development-Pakistan/Software-Development-Pakistan.github.io/tree/master/FAQs)
+2. ### [FAQ]({{site.url}}/FAQs)
 
 A kind of place where questions are answered about some common problems, myths, and ideas that people have in Pakistan about Software Development in general. Head over here if you are starting your bachelors in Computer Science / Software Engineering / Information Technology, or just want to read a list of commonely agreed upon opinions in the industry.
 
-3. ### [Learning Resources](https://github.com/Software-Development-Pakistan/Software-Development-Pakistan.github.io/tree/master/Learning%20Resources)
+3. ### [Learning Resources]({{site.url}}/learning-resources)
 
 Folder which contains in detail guides for the different materials you can look up to while you're in the learning process for the fields mentioned in the `Careers Paths` folder.
 
 ## Contribution!
 
-Want to contribute? Please check out the [contributing guidelines](https://github.com/Software-Development-Pakistan/Software-Development-Pakistan.github.io/blob/master/CONTRIBUTING.md) to get started!
+Want to contribute? Please check out the [contributing guidelines]({{site.url}}/contribution) to get started!
 
-## Community Repository
-
-The used Jekyll theme can be found [here, called Chromatical](https://github.com/chromatical/jekyll-materialdocs).
 
