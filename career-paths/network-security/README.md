@@ -1,4 +1,7 @@
-# Network Security
+---
+title: Network Security
+layout: page
+---
 
 ## Table Of Contents
 - [Network Security](#network-security)

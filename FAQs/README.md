@@ -1,4 +1,7 @@
-# Frequently Asked Questions ( FAQs )
+---
+title: Frequently Asked Questions
+layout: page
+---
 
 The following tries to answer some of the frequently recurring questions on the SDP community.
 
