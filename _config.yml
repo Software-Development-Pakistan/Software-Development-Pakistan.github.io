@@ -1,12 +1,8 @@
 remote_theme: stackbithq/stackbit-theme-fresh
 title: Stackbit Fresh Theme
 baseurl: /
-<<<<<<< HEAD
-permalink: "/:title/"
-=======
 url: http://localhost:4000
 permalink: '/:title/'
->>>>>>> changed the links and added base url
 collections:
   posts:
     permalink: "/posts/:title/"
