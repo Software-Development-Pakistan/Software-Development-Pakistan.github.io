@@ -1,29 +1,20 @@
 # Software Development Pakistan
 
-Welcome to the official repository for Software Development Pakistan! This is supposed to be a main page of information and guidance to people seeking help and advice from other group members, as well as providing a centralized way for the community to get together in one place.
+Welcome to the official repository for Software Development Pakistan! This will serve as the source of information and guidance for software/computer science students, and professionals to help them excel professionally, as well as providing a centralized way for the community to get together in one place.
 
-**_NOTE:_** Most of the ideas and lists presented here are the opinions of the Moderator(s) / Admin(s). Plesae feel free to disagree, and take away anything that is useful for you. This is just meant to server a beginner's guide to this huge field, so the target audience here are beginners, students, and hobbyists willing to take the time to understand the field.
+**_NOTE:_** Most of the ideas and lists presented here are the opinions of the various contributors. Plesae feel free to disagree, and take away anything that is useful for you. [Contributions](https://github.com/Software-Development-Pakistan/Software-Development-Pakistan.github.io/blob/master/CONTRIBUTING.md), and feedbacks are always welcomed.
 
-## Getting Started
-
-To get started, go ahead and check out the files under Content/ to see relevant information.
-The files stored under Contents/ are as following. Go ahead and click on them to jump directly over to there
-
-1. ### [Career Paths](https://github.com/Software-Development-Pakistan/Software-Development-Pakistan.github.io/tree/master/Career%20Paths)
-
-A folder which contains guides for the different fields that might interest you.
+## - [Career Paths](https://github.com/Software-Development-Pakistan/Software-Development-Pakistan.github.io/tree/master/Career%20Paths)
 
 Head over here if you're looking to get started in a specific technology.
 
-2. ### [FAQ](https://github.com/Software-Development-Pakistan/Software-Development-Pakistan.github.io/tree/master/FAQs)
+## - [FAQ](https://github.com/Software-Development-Pakistan/Software-Development-Pakistan.github.io/tree/master/FAQs)
 
-A kind of place where questions are answered about some common problems, myths, and ideas that people have in Pakistan about Software Development in general.
+Curated list of recurring questions, problems, myths, and ideas that people have in Pakistan about Software Development in general.
 
-This guide is mainly targeted towards aspiring software/computer science students either from a university or by themselves.
+## - [Learning Resources](https://github.com/Software-Development-Pakistan/Software-Development-Pakistan.github.io/tree/master/Learning%20Resources)
 
-3. ### [Learning Resources](https://github.com/Software-Development-Pakistan/Software-Development-Pakistan.github.io/tree/master/Learning%20Resources)
-
-Folder which contains in detail guides for the different materials you can look up to while you're in the learning process for the fields mentioned in the `Careers Paths` folder.
+Section where we collect different materials you can look up to in your learning journey.
 
 ## Contribution!
 
