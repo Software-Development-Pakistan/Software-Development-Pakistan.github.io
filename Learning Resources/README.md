@@ -10,6 +10,8 @@ As a first step forward, we've seperated these resources by domain. But if you h
 
 ## Table Of Contents
 
+- [Welcome to SoftDevPk - Learning Resources!](#welcome-to-softdevpk---learning-resources)
+  - [Table Of Contents](#table-of-contents)
 - [Web Development](#web-development)
   - [Video Resources](#video-resources)
   - [Reading Resources](#reading-resources)
