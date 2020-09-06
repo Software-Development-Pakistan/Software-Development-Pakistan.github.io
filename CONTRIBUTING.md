@@ -8,6 +8,7 @@ Contributions are heavily appreciated. It's the community that makes the group t
 2. Make that into a Pull Request so that the maintainers can review and approve or reject accordingly.
 3. Want to start a discussion about something that is missing? Make an issue! If the idea is helpful to everyone, we'll consider adding it into the main master repository.
 4. Each section has its own contribute template that needs to be followed. So if you would like to add a field under `Learning Resources`, `Career Paths`, then go ahead the copy the format from their `README.md` and you can start writing
+5. The MISC folder in `Learning Resouces` is for very niche topics, not exactly whole fields or around which an industry is based
 
 ## FAQ
 
