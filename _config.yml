@@ -1,5 +1,5 @@
 remote_theme: stackbithq/stackbit-theme-fresh
-title: Stackbit Fresh Theme
+title: Content Repository
 baseurl: /
 url: https://software-development-pakistan.github.io
 permalink: '/:title/'
@@ -17,16 +17,22 @@ header:
   has_nav: true
   nav_links:
     - label: Home
-      url: /README.md
+      url: /
       style: link
     - label: FAQs
-      url: /FAQs/README.md
+      url: /FAQs/
       style: link
     - label: Career Paths
       url: /career-paths/
       style: link
-    - label: Learning Res.
+    - label: Learning Resources.
       url: /learning-resources/
+      style: link
+    - label: Code Of Conduct.
+      url: /code-of-conduct/
+      style: link
+    - label: Make a Contribution.
+      url: /contributing/
       style: link
   has_social: true
   social_links:

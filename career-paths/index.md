@@ -7,12 +7,10 @@ This folder is supposed to serve a purpose as the main page where students, unde
 
 ## Table of Contents
 
-// TODO : Fix links.
-
-- [Android Development](#table-of-contents)
-- [Cloud Development](#table-of-contents)
-- [Data Science](#table-of-contents)
-- [DevOps]({{site.url}}/career-paths/devOps)
+- [Android Development]({{site.url}}/career-paths/android-dev)
+- [Cloud Development]({{site.url}}/career-paths/DevOps)
+- [Data Science]({{site.url}}/career-paths/data-science)
+- [DevOps]({{site.url}}/career-paths/DevOps)
 - [Network Security]({{site.url}}/career-paths/network-security)
 - [Operating Systems]({{site.url}}/career-paths/OS)
 - [Game Development]({{site.url}}/career-paths/game-dev)

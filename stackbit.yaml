@@ -3,21 +3,21 @@ ssgName: jekyll
 ssgVersion: 3.8.4
 buildCommand: jekyll build
 publishDir: _site
-staticDir: ''
+staticDir: ""
 uploadDir: images
 dataDir: _data
-pagesDir: ''
+pagesDir: ""
 pageLayoutKey: layout
 pageData:
   - pagePath: /
     initialExpandedPaths:
-      - '[0]'
-      - '[0].fields.sections'
-      - '[0].fields.sections.items[0]'
-      - '[0].fields.sections.items[0].fields.title'
-      - '[0].fields.sections.items[0].fields.content'
-      - '[1]'
-      - '[1].fields.palette'
+      - "[0]"
+      - "[0].fields.sections"
+      - "[0].fields.sections.items[0]"
+      - "[0].fields.sections.items[0].fields.title"
+      - "[0].fields.sections.items[0].fields.content"
+      - "[1]"
+      - "[1].fields.palette"
 sourceMapping:
   - source:
       fieldPath: author.name
@@ -35,82 +35,82 @@ sourceMapping:
       file: config.yml
       fieldPath: params.header.profile_img
   - source:
-      fieldPath: 'social.links[0].url'
+      fieldPath: "social.links[0].url"
     target:
       file: config.yml
-      fieldPath: 'params.header.social_links[0].url'
+      fieldPath: "params.header.social_links[0].url"
   - source:
       fieldPath: social.twitter.url
     target:
       file: config.yml
-      fieldPath: 'params.header.social_links[0].url'
+      fieldPath: "params.header.social_links[0].url"
   - source:
       fieldPath: social.instagram.url
     target:
       file: config.yml
-      fieldPath: 'params.header.social_links[1].url'
+      fieldPath: "params.header.social_links[1].url"
   - source:
       fieldPath: social.github.url
     target:
       file: config.yml
-      fieldPath: 'params.header.social_links[2].url'
+      fieldPath: "params.header.social_links[2].url"
   - source:
       fieldPath: social.linkedin.url
     target:
       file: config.yml
-      fieldPath: 'params.header.social_links[3].url'
+      fieldPath: "params.header.social_links[3].url"
   - source:
       fieldPath: social.devto.url
     target:
       file: config.yml
-      fieldPath: 'params.header.social_links[4].url'
+      fieldPath: "params.header.social_links[4].url"
   - action: delete
     condition: context.social && !context.social.devto
     target:
       file: config.yml
-      fieldPath: 'params.header.social_links[4]'
+      fieldPath: "params.header.social_links[4]"
   - action: delete
     condition: context.social && !context.social.linkedin
     target:
       file: config.yml
-      fieldPath: 'params.header.social_links[3]'
+      fieldPath: "params.header.social_links[3]"
   - action: delete
     condition: context.social && !context.social.github
     target:
       file: config.yml
-      fieldPath: 'params.header.social_links[2]'
+      fieldPath: "params.header.social_links[2]"
   - action: delete
     condition: context.social && !context.social.instagram
     target:
       file: config.yml
-      fieldPath: 'params.header.social_links[1]'
+      fieldPath: "params.header.social_links[1]"
   - action: delete
     condition: context.social && !context.social.twitter
     target:
       file: config.yml
-      fieldPath: 'params.header.social_links[0]'
+      fieldPath: "params.header.social_links[0]"
   - source:
       fieldPath: source.title
     target:
       file: config.yml
-      fieldPath: 'params.footer.links[1].label'
+      fieldPath: "params.footer.links[1].label"
   - source:
       fieldPath: source.url
     target:
       file: config.yml
-      fieldPath: 'params.footer.links[1].url'
+      fieldPath: "params.footer.links[1].url"
   - source:
       value: true
     condition: context.source.url
     target:
       file: config.yml
-      fieldPath: 'params.footer.links[1].new_window'
+      fieldPath: "params.footer.links[1].new_window"
   - source:
       value: link
     condition: context.source.url
     target:
       file: config.yml
-      fieldPath: 'params.footer.links[1].style'
+      fieldPath: "params.footer.links[1].style"
 logicFields:
   - section_posts.posts_number
 models:
@@ -131,8 +131,8 @@ models:
       - type: string
         name: permalink
         label: Permalink
-        description: 'The output path for your pages, posts, or collections.'
-        default: '/posts/:slug:output_ext'
+        description: "The output path for your pages, posts, or collections."
+        default: "/posts/:slug:output_ext"
         hidden: true
       - type: string
         name: description
@@ -379,7 +379,7 @@ models:
       - type: string
         name: canonical_url
         label: Canonical URL
-        description: 'The canonical url of the post, if post originates elsewhere.'
+        description: "The canonical url of the post, if post originates elsewhere."
   section:
     type: object
     label: Section
@@ -534,12 +534,12 @@ models:
       - type: string
         name: name
         label: Name
-        description: 'The name of the field, submitted with the form.'
+        description: "The name of the field, submitted with the form."
         required: true
       - type: string
         name: label
         label: Label
-        description: 'The caption of the field, shown above the field input.'
+        description: "The caption of the field, shown above the field input."
       - type: string
         name: default_value
         description: The default value for textual field types.
