@@ -28,4 +28,14 @@ Folder which contains in detail guides for the different materials you can look 
 
 ## Contribution!
 
-Want to contribute? Please check out the [contributing guidelines]({{site.url}}/contribution) to get started!
+Want to contribute? Please check out the [contributing guidelines]({{site.url}}/contributing) to get started!
+
+## Maintainers
+
+This repository is currently maintained by:
+
+- Syed Azeem Akhter [LinkedIn](https://www.linkedin.com/in/azma/) [Facebook](https://www.facebook.com/azimeister)
+- Muneeb Khan [Facebook](https://www.facebook.com/muneebjs)
+- Saif Ul Islam [Facebook](https://www.facebook.com/SaifUlIslam9820)
+
+## Feedback

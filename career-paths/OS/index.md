@@ -1,13 +1,12 @@
 ---
 title: Operating Systems
 layout: page
---- 
+---
 
-Operating Systems refers  to the understanding of lower lying hardware and technology that makes all the software run perfectly. It's about handlng the different work loads, optimizing the CPU performance, understanding how the memory and storage work, and how the software and hardware connect. It's really meant to help serve as a way to get a understanding of how to make software and technology talk to each other, and what the underlying OS does to make these two things communicate. 
+Operating Systems refers to the understanding of lower lying hardware and technology that makes all the software run perfectly. It's about handlng the different work loads, optimizing the CPU performance, understanding how the memory and storage work, and how the software and hardware connect. It's really meant to help serve as a way to get a understanding of how to make software and technology talk to each other, and what the underlying OS does to make these two things communicate.
 
 ## Table Of Contents
-- [Operating Systems](#operating-systems)
-  - [Table Of Contents](#table-of-contents)
+
 - [Please Read First](#please-read-first)
 - [An Introduction](#an-introduction)
 - [Technologies](#technologies)
@@ -47,7 +46,7 @@ What does OS make it easier to understand? A lot, basically. To name a few,
 
 # Technologies
 
-To get started, there are two factions here, one is the `Closed Sourced Community` like Windows which believes that only the company itself should have access and view to the source code of their products, and the `Open Source Community` like Linux, which believe systems should be open to scrunity, and that good systems only work are understood and shared amongst workers and members. 
+To get started, there are two factions here, one is the `Closed Sourced Community` like Windows which believes that only the company itself should have access and view to the source code of their products, and the `Open Source Community` like Linux, which believe systems should be open to scrunity, and that good systems only work are understood and shared amongst workers and members.
 
 Working with an OS from scratch means a good understanding of the underlying hardware, and building everything from scrach ( maybe even using Assembly! ), but obviously that isn't reasonable. You can try either `Windows` or `Linux`, but `Linux` is far more recommended as it gives you more control over, well, basically everything. You can change anything, anywhere - Windows doesn't let you do that.
 
@@ -57,7 +56,7 @@ Working with an OS from scratch means a good understanding of the underlying har
 
 So what `Linux` or `distribution of Linux` should you choose? It depends on what metrics you use and what is important to you. There are some basic [`trees`](https://en.wikipedia.org/wiki/List_of_Linux_distributions#/media/File:Linux_Distribution_Timeline.svg) of distributions, which means there are some OS which contain the Linux kernel, and have their own spin on it. The only thing about distros that make them Linux is the kernel they have, and the libraries they use. For example, the system call library functionalities that you used in OS were part of GNU - GNU has a `glibc` which means they have a library written in C which interacts with the Linux kernel.
 
-The commands you run on the `terminal` ( *or the bash shell* ), that's the interface and call to the kernel to do that.
+The commands you run on the `terminal` ( _or the bash shell_ ), that's the interface and call to the kernel to do that.
 
 If you haven't guessed already, this guide is about working with and building Operating Systems by using Linux itself. This is not a guide if you want to build something from scratch. Please checkout [OS Dev](osdev.org) for that.
 
@@ -89,10 +88,10 @@ Now, the next thing is that you look at what is important to you. Here are some 
 
 There are two contrasts here, there is a,
 
-- Non-rolling release 
+- Non-rolling release
 - Rolling release
 
-A ***non-rolling release***, for example, is the debian family or 'tree', which ubuntu is a part of. It basically means that the kernel is and system is designed with system versions of software. Which ultimately means that you can specify what versions of software you want for your machine, and give it to the kernel, and it will set it up for you. But that means that if you want to change the version numbers, you will have to upgrade the system. 
+A **_non-rolling release_**, for example, is the debian family or 'tree', which ubuntu is a part of. It basically means that the kernel is and system is designed with system versions of software. Which ultimately means that you can specify what versions of software you want for your machine, and give it to the kernel, and it will set it up for you. But that means that if you want to change the version numbers, you will have to upgrade the system.
 
 So for example, if you decided to use Ubuntu 18.04, you would get python 3.7.3. Now, we have Python 3.8.1, say you wanted to upgrade, but you can't.
 
@@ -102,10 +101,10 @@ What you would now have to do is install the newest Ubuntu version and use the P
 
 It also means that if you choose something like this for your setup, you can't use the latest tech, and everytime you want to upgrade, you need to create a backup, install a newest ubuntu which in the start is very buggy ( which is why you see so many people unsure about if they even want to upgrade their current ubuntu ).
 
-A ***rolling release*** is very different. A rolling release emphasizes on giving you the latest whenever it can.
-For example, there is `Arch Linux`, which lets you upgrade the system, even the kernel, with a sytem update command using its package manager. So now I have the latest of eveything I could want. 
+A **_rolling release_** is very different. A rolling release emphasizes on giving you the latest whenever it can.
+For example, there is `Arch Linux`, which lets you upgrade the system, even the kernel, with a sytem update command using its package manager. So now I have the latest of eveything I could want.
 
-*NOTE:* that rolling releases are never used in server side or cloud stuff because for, 
+_NOTE:_ that rolling releases are never used in server side or cloud stuff because for,
 
 1. Troublshooting purposes
 2. Hard to replicate
@@ -115,7 +114,7 @@ For example, there is `Arch Linux`, which lets you upgrade the system, even the 
 
 `openSUSE`, `Ubuntu`, `Fedora`, `Debian` and other such Debian forks are much easier to install rather than something like `Slackware`, `Arch Linux`. It's recommended that you try those out first before diving into anything harder.
 
-## Security 
+## Security
 
 Kali Linux, Redhat, Fedora, Black Arch Linux come to mind, they have a preset of good configurations for security related measures when they are installed. They come with pre installed and pre setup software so that you can work on them quickly. There are some differences under the /etc/ folder for networking reasons.
 

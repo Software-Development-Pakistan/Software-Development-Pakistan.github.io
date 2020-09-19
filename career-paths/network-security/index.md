@@ -4,8 +4,7 @@ layout: page
 ---
 
 ## Table Of Contents
-- [Network Security](#network-security)
-  - [Table Of Contents](#table-of-contents)
+
 - [Please Read First](#please-read-first)
 - [An Introduction](#an-introduction)
 - [Technologies](#technologies)
