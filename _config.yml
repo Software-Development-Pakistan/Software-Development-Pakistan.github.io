@@ -17,7 +17,7 @@ header:
   has_nav: true
   nav_links:
     - label: Home
-      url: /
+      url: /README.md
       style: link
     - label: FAQs
       url: /FAQs/
