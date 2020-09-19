@@ -7,28 +7,29 @@ Welcome to the official repository for Software Development Pakistan! This is su
 
 **_NOTE:_** Most of the ideas and lists presented here are the opinions of the Moderator(s) / Admin(s). Plesae feel free to disagree, and take away anything that is useful for you. This is just meant to server a beginner's guide to this huge field, so the target audience here are beginners, students, and hobbyists willing to take the time to understand the field.
 
-## Getting Started
+## Site Content
 
-To get started, go ahead and check out the files under Content/ to see relevant information.
-The files stored under Contents/ are as following. Go ahead and click on them to jump directly over to there
+The site has content for helping the community in the following sections:
 
-1. ### [Career Paths]({{site.url}}/career-paths/)
+- [Career Paths]({{site.url}}/career-paths/)
 
-A folder which contains guides for the different fields that might interest you.
+A folder which contains guides for the different fields that might interest you. Head over here if you're looking to get started in a specific technology.
 
-Head over here if you're looking to get started in a specific technology.
-
-2. ### [FAQ]({{site.url}}/FAQs)
+- [FAQ]({{site.url}}/FAQs)
 
 A kind of place where questions are answered about some common problems, myths, and ideas that people have in Pakistan about Software Development in general. Head over here if you are starting your bachelors in Computer Science / Software Engineering / Information Technology, or just want to read a list of commonely agreed upon opinions in the industry.
 
-3. ### [Learning Resources]({{site.url}}/learning-resources)
+- [Learning Resources]({{site.url}}/learning-resources)
 
 Folder which contains in detail guides for the different materials you can look up to while you're in the learning process for the fields mentioned in the `Careers Paths` folder.
 
-## Contribution!
+- [Code of conduct]({{site.url}}/code-of-conduct)
 
-Want to contribute? Please check out the [contributing guidelines]({{site.url}}/contributing) to get started!
+Posting and community guidelines to make the most out of the platform.
+
+- [Contributions]({{site.url}}/contributing)
+
+Want to make a difference by contributing? This page has instructions and guidelines.
 
 ## Maintainers
 
