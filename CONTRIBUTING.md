@@ -1,3 +1,8 @@
+---
+title: Contributing Guidelines
+layout: page
+---
+
 # Contributing Guidelines
 
 ## General guidelines.
