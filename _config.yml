@@ -1,0 +1,70 @@
+remote_theme: stackbithq/stackbit-theme-fresh
+title: Content Repository
+baseurl: /
+url: https://software-development-pakistan.github.io
+permalink: '/:title/'
+collections:
+  posts:
+    permalink: "/posts/:title/"
+description: Personal blogging theme for Stackbit
+layout_style: overflow
+palette: blue
+header:
+  title: Software Dev. Pakistan
+  tagline: Pakistan's Biggest Community of Software Developers
+  profile_img: images/avatar.jpeg
+  background: dark
+  has_nav: true
+  nav_links:
+    - label: Home
+      url: /
+      style: link
+    - label: FAQs
+      url: /FAQs/
+      style: link
+    - label: Career Paths
+      url: /career-paths/
+      style: link
+    - label: Learning Resources.
+      url: /learning-resources/
+      style: link
+    - label: Code Of Conduct.
+      url: /code-of-conduct/
+      style: link
+    - label: Make a Contribution.
+      url: /contributing/
+      style: link
+  has_social: true
+  social_links:
+    - label: Facebook
+      url: 'https://www.facebook.com/groups/softdevpk'
+      style: icon
+      icon_class: fa-facebook
+      new_window: true
+      new_window: true
+footer:
+  content: "&copy; All rights reserved."
+  links:
+    - label: Made by community members of SDP.
+      url: 'https://www.facebook.com/groups/softdevpk'
+      style: link
+      new_window: true
+sass:
+  indentWidth: 4
+  style: nested
+  precision: 10
+plugins:
+  - jekyll-menus
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - LICENSE.md
+  - README.md
+  - netlify.toml
+  - stackbit-build.sh
+  - stackbit-pull.js

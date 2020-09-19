@@ -1,4 +1,7 @@
-# Software Development Pakistan
+---
+title: Software Development Pakistan
+layout: page
+---
 
 Welcome to the official repository for Software Development Pakistan! This will serve as the source of information and guidance for software/computer science students, and professionals to help them excel professionally, as well as providing a centralized way for the community to get together in one place.
 
