@@ -40,3 +40,5 @@ This repository is currently maintained by:
 - Saif Ul Islam [Facebook](https://www.facebook.com/SaifUlIslam9820)
 
 ## Feedback
+
+Want to help us improve? [Let us know!](https://docs.google.com/forms/d/e/1FAIpQLSf2XbAcp7UOTl_0HvPB1X0Z0oY5bYv32JmybtlGRxPPbihdbA/viewform?usp=sf_link)
