@@ -20,7 +20,7 @@ header:
       url: /README.md
       style: link
     - label: FAQs
-      url: /FAQs/
+      url: /FAQs/README.md
       style: link
     - label: Career Paths
       url: /career-paths/
