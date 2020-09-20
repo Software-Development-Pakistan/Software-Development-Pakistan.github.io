@@ -83,16 +83,6 @@ Project maintainers who do not follow or enforce the Code of Conduct in good
 faith may face temporary or permanent repercussions as determined by other
 members of the project's leadership.
 
-## Maintainers
-
-This repository is currently maintained and moderated by:
-
-- Syed Azeem Akhter [LinkedIn](https://www.linkedin.com/in/azma/), [Facebook](https://www.facebook.com/azimeister)
-- Muneeb Khan [LinkedIn](https://www.linkedin.com/in/muneebjs/), [Facebook](https://www.facebook.com/muneebjs)
-- Saif Ul Islam [LinkedIn](https://www.linkedin.com/in/https://www.linkedin.com/in/saif-ul-islam-93786b187//), [Facebook](https://www.facebook.com/SaifUlIslam9820)
-
-Please free feel to reach out in case of questions, suggestions, ideas and any possible issues that may arise.
-
 ## Attribution
 
 This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4,
