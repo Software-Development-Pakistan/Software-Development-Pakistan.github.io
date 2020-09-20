@@ -22,6 +22,8 @@ Here, we have list down some of the common learning resources for different doma
 
 ## Contribution Template
 
+If you just want to make an edit or add something, please make sure to check out the [Contributing Guidelines]({{site.url}}/contributing) first.
+
 If you would like to make a file and place for a field or category that doesn't already exist, use the template below, make a new folder, then make a new file called `index.md`, paste the template over there, and start typing!
 
 Feel free to add and remove headings as you wish and think it fits the content better,
