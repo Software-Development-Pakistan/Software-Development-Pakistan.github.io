@@ -15,15 +15,41 @@ Contributions are heavily appreciated. It's the community that makes the group t
 
 ## Sending a Pull Request
 
+To get started with sending a pull request, make sure you have `git` installed.
+
+### Linux User
+
+If you're a linux user, the most general way to install git is `sudo <package-manager> install git`.
+
+### Windows User
+
+Setup `git bash` on your machine. You can find the installation here on [Git SCM](https://git-scm.com/downloads).
+
 ### Clone the Repository
 
-`git clone git@github.com:Software-Development-Pakistan/Software-Development-Pakistan.github.io.git`
+Run the below script,
+
+```bash
+git clone https://github.com/Software-Development-Pakistan/Software-Development-Pakistan.github.io.git
+```
 
 ### Navigate to a new branch
 
-`git checkout -b your-branch-name`
+Make sure to NOT commit directly to the master, and remember that you are trying to open up a `pull request` ( PR ). 
 
-### Make Changes.
+For that, move to a separate, new branch, using the below syntax.
+
+```bash
+git checkout -b your-branch-name`
+```
+
+The better you name your branch, the more easier it for us to quickly understand what you attempted to change.
+Good naming conventions for branches in this repository can be,
+1. Start with a verb ( add, change, made, create etc)
+2. Follow the next word with the name of the file where the change was made
+3. Or if a file/folder was created, you can use something like this `create file/dir new-career-paths`, respectively
+
+### Make Changes
 
 Change and commit the content as you think will be helpful for the community. Make sure you use meaningful commit messages.
 The process goes as following after you make changes and save files.
