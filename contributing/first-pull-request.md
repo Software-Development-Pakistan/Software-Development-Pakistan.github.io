@@ -1,6 +1,6 @@
 # Note
 
-The below content is courtesy of the [First Contributions Repository](https://github.com/firstcontributions/first-contributions).
+The below content is courtesy of the [First Contributions Repository](https://github.com/firstcontributions/first-contributions), with a MIT License.
 Please check out the repository ( be sure to star it ), for a complete guide to eery single aspect of first time contributions.
 
 Cheers!
@@ -118,7 +118,7 @@ Now submit the pull request.
 
 <img style="float: right;" src="../assets/img/submit-pull-request.png" alt="submit pull request" />
 
-Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
+Soon we'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
 
 ## Where to go from here?
 
@@ -126,4 +126,4 @@ Congrats! You just completed the standard _fork -> clone -> edit -> PR_ workflow
 
 Celebrate your contribution and share it with your friends and followers by going to [First Contributiosn - web app](https://firstcontributions.github.io/#social-share).
 
-You could join our slack team in case you need any help or have any questions. [Join slack team for First Contributions](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM).
+You could join the FC slack team in case you need any help or have any questions. [Join slack team for First Contributions](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM).
