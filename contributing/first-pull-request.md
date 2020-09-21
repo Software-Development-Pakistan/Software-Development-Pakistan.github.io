@@ -1,8 +1,15 @@
+# Note
+
+The below content is courtesy of the [First Contributions Repository](https://github.com/firstcontributions/first-contributions).
+Please check out the repository ( be sure to star it ), for a complete guide to eery single aspect of first time contributions.
+
+Cheers!
+
 # First Contributions
 
 It's hard. It's always hard the first time you do something. Especially when you are collaborating, making mistakes isn't a comfortable thing. Everyone wants to simplify the way new open-source contributors learn & contribute for the first time.
 
-Reading articles & watching tutorials can help, but what's better than actually doing the stuff in a practice environment? This project aims at providing guidance & simplifying the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
+Reading articles & watching tutorials can help, but what's better than actually doing the stuff in a practice environment? This guide aims at providing guidance & simplifying the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
 
 <img align="right" width="300" src="../assets/img/fork.png" alt="fork this repository" />
 
@@ -10,12 +17,12 @@ If you don't have git on your machine, [install it](https://help.github.com/arti
 
 ## Fork this repository
 
-Fork this repository by clicking on the fork button on the top of this page.
+Fork the [First Contributions](https://github.com/firstcontributions/first-contributions) repository by clicking on the fork button on the top of the page.
 This will create a copy of this repository in your account.
 
 ## Clone the repository
 
-<img align="right" width="300" src="assets/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="../assets/img/clone.png" alt="clone this repository" />
 
 Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the code button and then click the _copy to clipboard_ icon.
 
@@ -27,7 +34,7 @@ git clone "url you just copied"
 
 where "url you just copied" (without the quotation marks) is the url to this repository (your fork of this project). See the previous steps to obtain the url.
 
-<img align="right" width="300" src="assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="../assets/img/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 For example:
 
@@ -39,12 +46,15 @@ where `this-is-you` is your GitHub username. Here you're copying the contents of
 
 ## Create a branch
 
+
 Change to the repository directory on your computer (if you are not already there):
 
 ```
 cd first-contributions
 ```
 
+The below is to make sure to NOT commit directly to the master.
+Remember that you are trying to open up a `pull request` ( PR ). 
 Now create a branch using the `git checkout` command:
 
 ```
@@ -59,11 +69,18 @@ git checkout -b add-alonzo-church
 
 (The name of the branch does not need to have the word _add_ in it, but it's a reasonable thing to include because the purpose of this branch is to add your name to a list.)
 
+The better you name your branch, the more easier it for us to quickly understand what you attempted to change.
+Good naming conventions for branches in this repository can be,
+
+1. Start with a verb ( add, change, made, create etc)
+2. Follow the next word with the name of the file where the change was made
+3. Or if a file/folder was created, you can use something like this `create file/dir new-career-paths`, respectively
+
 ## Make necessary changes and commit those changes
 
 Now open `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
 
-<img align="right" width="450" src="assets/git-status.png" alt="git status" />
+<img align="right" width="450" src="../assets/img/git-status.png" alt="git status" />
 
 If you go to the project directory and execute the command `git status`, you'll see there are changes.
 
@@ -95,11 +112,11 @@ replacing `<add-your-branch-name>` with the name of the branch you created earli
 
 If you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on that button.
 
-<img style="float: right;" src="assets/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="../assets/img/compare-and-pull.png" alt="create a pull request" />
 
 Now submit the pull request.
 
-<img style="float: right;" src="assets/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="../assets/img/submit-pull-request.png" alt="submit pull request" />
 
 Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
 
@@ -107,10 +124,6 @@ Soon I'll be merging all your changes into the master branch of this project. Yo
 
 Congrats! You just completed the standard _fork -> clone -> edit -> PR_ workflow that you'll encounter often as a contributor!
 
-Celebrate your contribution and share it with your friends and followers by going to [web app](https://firstcontributions.github.io/#social-share).
+Celebrate your contribution and share it with your friends and followers by going to [First Contributiosn - web app](https://firstcontributions.github.io/#social-share).
 
-You could join our slack team in case you need any help or have any questions. [Join slack team](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM).
-
-Now let's get you started with contributing to other projects. We've compiled a list of projects with easy issues you can get started on. Check out [the list of projects in the web app](https://firstcontributions.github.io/#project-list).
-
-### [Additional material](additional-material/git_workflow_scenarios/additional-material.md)
+You could join our slack team in case you need any help or have any questions. [Join slack team for First Contributions](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM).
