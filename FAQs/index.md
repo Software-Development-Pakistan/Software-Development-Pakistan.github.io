@@ -292,5 +292,3 @@ Here are some events or communities for students that you should definitely keep
   - Student Partners are a global group of on-campus ambassadors who are eager to help fellow students, lead in their local tech community, and develop technical and career skills for the future. You might find yourself organizing a hackathon to solve the world’s toughest problems, mentoring fellow students, or unlocking the next great idea with your team — it’s all up to you.
 - [Amazon Student Partner](https://aws.amazon.com/education/awseducate/)
   - Bring AWS Educate to your institution. Put the power of cloud learning in the hands of all instructors and students. By signing up as an AWS Educate member institution, your students and staff receive additional benefits, including more AWS Promotional Credit. Not sure if your school has joined? View our membership list.
-
-{% include disqus.html %}
