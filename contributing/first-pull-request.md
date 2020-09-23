@@ -117,7 +117,7 @@ Soon we'll be merging all your changes into the master branch of this project. Y
 
 ## Where to go from here?
 
-Congrats! You just completed the standard _fork -> clone -> edit -> PR_ workflow that you'll encounter often as a contributor!
+Congrats! You just completed the standard _fork -> clone -> edit -> PR_ workflow that you'll encounter often as a contributor. Now go ahead, make changes in the repository and help make this repository and even better place for learning and guidance.
 
 # Note
 
