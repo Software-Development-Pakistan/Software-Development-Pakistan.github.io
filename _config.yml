@@ -2,7 +2,7 @@ remote_theme: stackbithq/stackbit-theme-fresh
 title: Content Repository
 baseurl: /
 url: https://software-development-pakistan.github.io
-permalink: '/:title/'
+permalink: "/:title/"
 collections:
   posts:
     permalink: "/posts/:title/"
@@ -25,28 +25,30 @@ header:
     - label: Career Paths
       url: /career-paths/
       style: link
-    - label: Learning Resources.
+    - label: Learning Resources
       url: /learning-resources/
       style: link
-    - label: Code Of Conduct.
-      url: /code-of-conduct/
+    - label: Community Guidelines
+      url: /community-guidelines/
       style: link
-    - label: Make a Contribution.
+    - label: Make a Contribution
       url: /contributing/
       style: link
   has_social: true
   social_links:
     - label: Facebook
-      url: 'https://www.facebook.com/groups/softdevpk'
+      url: "https://www.facebook.com/groups/softdevpk"
       style: icon
       icon_class: fa-facebook
-      new_window: true
       new_window: true
 footer:
   content: "&copy; All rights reserved."
   links:
-    - label: Made by community members of SDP.
-      url: 'https://www.facebook.com/groups/softdevpk'
+    - label: Code Of Conduct
+      url: /code-of-conduct/
+      style: link
+    - label: Facebook Community
+      url: https://www.facebook.com/groups/softdevpk
       style: link
       new_window: true
 sass:
