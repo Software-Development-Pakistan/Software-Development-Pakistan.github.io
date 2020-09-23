@@ -15,7 +15,7 @@ Contributions are heavily appreciated. It's the community that makes the group t
 
 ## Sending Your First Pull Request
 
-You can check out a whole detailed guide, which could be [Your First Pull Request]({{site.url}}/contributing/first-pull-request.md)!
+You can check out a whole detailed guide, which could be [Your First Pull Request]({{site.url}}/contributing/first-pull-request)!
 
 ## Sending Content Directly
 

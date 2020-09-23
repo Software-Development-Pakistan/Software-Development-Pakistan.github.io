@@ -6,12 +6,12 @@ permalink: '/:title/'
 collections:
   posts:
     permalink: "/posts/:title/"
-description: Personal blogging theme for Stackbit
+description: Content repository.
 layout_style: overflow
 palette: blue
 header:
   title: Software Dev. Pakistan
-  tagline: Pakistan's Biggest Community of Software Developers
+  tagline: Pakistan's largest community of Software Developers
   profile_img: images/avatar.jpeg
   background: dark
   has_nav: true
