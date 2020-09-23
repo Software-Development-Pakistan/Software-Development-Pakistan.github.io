@@ -21,7 +21,7 @@ A kind of place where questions are answered about some common problems, myths, 
 
 Folder which contains in detail guides for the different materials you can look up to while you're in the learning process for the fields mentioned in the `Careers Paths` folder.
 
-- [Code of conduct]({{site.url}}/code-of-conduct)
+- [Community Guidelines]({{site.url}}/community-guidelines)
 
 Posting and community guidelines to make the most out of the platform.
 
