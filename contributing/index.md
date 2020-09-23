@@ -13,32 +13,13 @@ Contributions are heavily appreciated. It's the community that makes the group t
 4. Each section has its own contribute template that needs to be followed. So if you would like to add a field under `Learning Resources`, `Career Paths`, then go ahead the copy the format from their `README.md` and you can start writing
 5. The MISC folder in `Learning Resouces` is for very niche topics, not exactly whole fields.
 
-## Sending a Pull Request
+## Sending Your First Pull Request
 
-### Clone the Repository
+You can check out a whole detailed guide, which could be [Your First Pull Request]({{site.url}}/contributing/first-pull-request.md)!
 
-`git clone git@github.com:Software-Development-Pakistan/Software-Development-Pakistan.github.io.git`
+## Sending Content Directly
 
-### Navigate to a new branch
-
-`git checkout -b your-branch-name`
-
-### Make Changes.
-
-Change and commit the content as you think will be helpful for the community. Make sure you use meaningful commit messages.
-The process goes as following after you make changes and save files.
-
-- Check what you changed, `git status` shows the files you changed and `git diff` shows the difference.
-- Add and commit `git commit -am "Add a career path for SQA`
-- Push changes: `git push`
-
-### Send a pull request
-
-Navigate to your branch and Click `Pull Request`.
-
-## Sending content directly.
-
-If this seem like a lot of work, then you can also contribute by just sending the content to one of the repository maintainers. The list of maintainers is [here]({{site.url}}/#Maintainers)
+If this seem like a lot of work, then you can also contribute by just sending the content to one of the repository maintainers. The list of maintainers is [here]({{site.url}}/#Maintainers), located at the bottom.
 
 ## FAQ
 

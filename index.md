@@ -33,11 +33,13 @@ Want to make a difference by contributing? This page has instructions and guidel
 
 ## Maintainers
 
-This repository is currently maintained by:
+This repository is currently maintained and moderated by:
 
-- Syed Azeem Akhter [LinkedIn](https://www.linkedin.com/in/azma/) [Facebook](https://www.facebook.com/azimeister)
-- Muneeb Khan [Facebook](https://www.facebook.com/muneebjs)
-- Saif Ul Islam [Facebook](https://www.facebook.com/SaifUlIslam9820)
+- Syed Azeem Akhter [LinkedIn](https://www.linkedin.com/in/azma/), [Facebook](https://www.facebook.com/azimeister)
+- Muneeb Khan [LinkedIn](https://www.linkedin.com/in/muneebjs/), [Facebook](https://www.facebook.com/muneebjs)
+- Saif Ul Islam [LinkedIn](https://www.linkedin.com/in/https://www.linkedin.com/in/saif-ul-islam-93786b187//), [Facebook](https://www.facebook.com/SaifUlIslam9820)
+
+Please free feel to reach out in case of questions, suggestions, ideas and any possible issues that may arise.
 
 ## Feedback
 

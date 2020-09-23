@@ -42,6 +42,11 @@ Remember,
 - Give more to this group than you take. Self-promotion, spam and irrelevant links aren't allowed.
 - Being part of this group requires mutual trust. Authentic, expressive discussions make groups great, but may also be sensitive and private. What's shared in the group should stay in the group.
 
+At the end of the day, do remember that this is a community github repository, unlike most developer and coding related repositories. That means,
+
+- The suggestions, ideas of people in the community is what keeps this repository well worth all the hard work.
+- Please feel free to open suggestions and follow the contributing guidelines to get started on how to contribute and give back to the repository
+
 ## Our Responsibilities
 
 Project maintainers are responsible for clarifying the standards of acceptable
