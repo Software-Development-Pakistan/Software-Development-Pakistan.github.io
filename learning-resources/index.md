@@ -47,7 +47,3 @@ Feel free to add and remove headings as you wish and think it fits the content b
 
 ## MISC
 ```
-
-### Editor Used
-
-The editor used for editing and generating the `Table Of Contents` was `Visual Studio Code` - it generates and automatically keeps a track of your sections and headers in a `.md` file. Just make sure to have the basic table setup, like the format given above.
