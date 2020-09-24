@@ -1,3 +1,8 @@
+---
+title: Data Science
+layout: page
+---
+
 # Data Science
 
 Data Science is a HUGE field, and it has been called one of the most highest paying jobs for the coming years. It's a long journey, but here's a way to get started with it!
