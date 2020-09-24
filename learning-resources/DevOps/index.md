@@ -1,3 +1,8 @@
+---
+title: Developer Operations, DevOps - Resources
+layout: page
+---
+
 # DevOps
 
 # Table Of Contents

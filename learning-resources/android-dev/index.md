@@ -1,3 +1,8 @@
+---
+title: Android Dev - Resources
+layout: page
+---
+
 # Android Dev
 
 # Table Of Contents

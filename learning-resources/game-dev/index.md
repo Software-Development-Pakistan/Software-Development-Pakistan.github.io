@@ -1,3 +1,8 @@
+---
+title: Game Dev - Resources
+layout: page
+---
+
 # Game Dev
 
 # Table Of Contents

@@ -1,3 +1,8 @@
+---
+title: Miscellanous - Resources
+layout: page
+---
+
 # MISC
 
 For topics and ideas to niche to fit in one place

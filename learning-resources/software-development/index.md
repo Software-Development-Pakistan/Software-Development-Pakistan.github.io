@@ -1,3 +1,8 @@
+---
+title: Software Developement - Resources
+layout: page
+---
+
 # Software Development
 
 # Table Of Contents

@@ -1,3 +1,8 @@
+---
+title: Cloud Dev - Resources
+layout: page
+---
+
 # Cloud Dev
 
 # Table Of Contents

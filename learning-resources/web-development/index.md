@@ -1,3 +1,8 @@
+---
+title: Web Development - Resources
+layout: page
+---
+
 # Web Development
 
 # Table Of Contents

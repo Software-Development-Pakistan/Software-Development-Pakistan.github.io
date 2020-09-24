@@ -1,3 +1,8 @@
+---
+title: Data Science - Resources
+layout: page
+---
+
 # Data Science
 
 # Table Of Contents
