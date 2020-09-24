@@ -37,3 +37,14 @@ If you need examples, check the existing career paths documents.
   - [Youtube Channels](#youtube-channels), but if you like visual learning, that's also there!
   - [MISC](#misc), anything that doesn't fit above, blogs, list, articles, opinions, slides, lectures etcs
 - [References](#references), things you should read about if you're new and want to research more.
+
+Make sure to add the following content matter at the very top, before everything else,
+
+```
+---
+title: Title Of Your Page 
+layout: page
+---
+```
+
+This will generate a relevant `disqus` for the page.

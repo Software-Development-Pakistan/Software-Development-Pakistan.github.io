@@ -1,3 +1,8 @@
+---
+title: Career Paths!
+layout: page
+---
+
 # Web Development
 
 ## Table Of Contents
