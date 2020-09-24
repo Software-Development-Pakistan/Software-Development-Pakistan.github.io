@@ -29,7 +29,12 @@ If you would like to make a file and place for a field or category that doesn't 
 Feel free to add and remove headings as you wish and think it fits the content better,
 
 ```
-# Topic Name
+---
+title: <Topic Name>
+layout: page
+---
+
+# <Topic Name>
 
 # Table Of Contents
 - [Topic Name](#topic-name)
