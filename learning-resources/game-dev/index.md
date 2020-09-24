@@ -1,6 +1,7 @@
 ---
 title: Game Dev - Resources
 layout: page
+comments: true
 ---
 
 # Game Dev

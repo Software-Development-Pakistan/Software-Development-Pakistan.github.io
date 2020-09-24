@@ -1,6 +1,7 @@
 ---
 title: Miscellanous - Resources
 layout: page
+comments: true
 ---
 
 # MISC

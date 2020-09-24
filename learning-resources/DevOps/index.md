@@ -1,6 +1,7 @@
 ---
 title: Developer Operations, DevOps - Resources
 layout: page
+comments: true
 ---
 
 # DevOps

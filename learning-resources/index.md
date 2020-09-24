@@ -1,6 +1,7 @@
 ---
 title: Learning Resources
 layout: page
+comments: true
 ---
 
 Here, we have list down some of the common learning resources for different domains which has been used by both professionals and students alike.

@@ -1,6 +1,7 @@
 ---
 title: Cloud Dev - Resources
 layout: page
+comments: true
 ---
 
 # Cloud Dev
