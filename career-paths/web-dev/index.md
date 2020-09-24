@@ -1,6 +1,7 @@
 ---
 title: Web Developement
 layout: page
+comments: true
 ---
 
 # Web Development

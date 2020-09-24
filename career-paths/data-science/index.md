@@ -1,6 +1,7 @@
 ---
 title: Data Science
 layout: page
+comments: true
 ---
 
 # Data Science

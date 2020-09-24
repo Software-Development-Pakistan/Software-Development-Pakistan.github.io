@@ -1,6 +1,7 @@
 ---
 title: Operating Systems
 layout: page
+comments: true
 ---
 
 Operating Systems refers to the understanding of lower lying hardware and technology that makes all the software run perfectly. It's about handlng the different work loads, optimizing the CPU performance, understanding how the memory and storage work, and how the software and hardware connect. It's really meant to help serve as a way to get a understanding of how to make software and technology talk to each other, and what the underlying OS does to make these two things communicate.

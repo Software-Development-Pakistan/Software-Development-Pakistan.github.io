@@ -1,6 +1,7 @@
 ---
 title: Cloud Dev
 layout: page
+comments: true
 ---
 
 Cloud Development refers to the modern usage of 3rd party [serverless architecture](https://searchitoperations.techtarget.com/definition/serverless-computing?_ga=2.167453694.1303400459.1597212240-772566635.1597212240) for the sake of diversifying computing resources, and letting 3rd party companies handle the CPU and memory needs while the product itself focuses on the actual development process and cycle.

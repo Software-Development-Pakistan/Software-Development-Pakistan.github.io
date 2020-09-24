@@ -1,6 +1,7 @@
 ---
 title: Software Development
 layout: page
+comments: true
 ---
 
 ## Table Of Contents

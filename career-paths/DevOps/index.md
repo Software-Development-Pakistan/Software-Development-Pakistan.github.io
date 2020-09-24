@@ -1,6 +1,7 @@
 ---
 title: Developer Operations - DevOps
 layout: page
+comments: true
 ---
 
 # DevOps
