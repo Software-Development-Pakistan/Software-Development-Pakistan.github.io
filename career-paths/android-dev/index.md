@@ -1,6 +1,7 @@
 ---
 title: Android Development
 layout: page
+comments: true
 ---
 
 Android Development resources here. Self explanatory

@@ -1,6 +1,7 @@
 ---
 title: Game Development
 layout: page
+comments: true
 ---
 
 ## Table Of Contents

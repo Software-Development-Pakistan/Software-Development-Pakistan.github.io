@@ -1,3 +1,9 @@
+---
+title: Developer Operations - DevOps
+layout: page
+comments: true
+---
+
 # DevOps
 
 DevOps is the modern approach in `Agile` to solve the problem of the communication problem between the `tester`, the `developer`, and the `operations`. In the software development cycle, the developer is the person that is meant to develop those features in code, the tester is meant to make sure all the tests are satisfied and nothing breaks in the development environment. The `operations` has to take care that pushing those new changes into the production environment does not break anything else. Those whole cycle mainly comprises of the following main points,

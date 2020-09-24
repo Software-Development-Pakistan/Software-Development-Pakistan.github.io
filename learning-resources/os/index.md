@@ -1,3 +1,9 @@
+---
+title: Operating Systems - Resources
+layout: page
+comments: true
+---
+
 # OS
 
 # Table Of Contents
