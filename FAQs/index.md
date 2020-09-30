@@ -98,9 +98,9 @@ The Alumni of that University are actually very precious. Seniors, juniors, and 
 
 Since many of the things in Computer Science / Software Engineering can only be really learned through a self taught experience, it's very important to note down how much free time the University gives you, and how lax it is in not over burdening you with work.
 
-### Extra Cirricular
+### Extra Curricular
 
-A good teamwork in companies and projects helps to move that project ahead. Unlike the common myth that great products are made by a single individual typin away at his keyboard in a silent, empty room, most projects are actually the result of very good cooperation and the collaboration of efforts between individuals that come together to make a solid project.
+A good teamwork in companies and projects helps to move that project ahead. Unlike the common myth that great products are made by a single individual typing away at his keyboard in a silent, empty room, most projects are actually the result of very good cooperation and the collaboration of efforts between individuals that come together to make a solid project.
 
 ### Societies And Events
 
@@ -196,7 +196,7 @@ Start from https://www.freecodecamp.org/ its a great resource to learn from. Als
 And that's all you need. A basic understanding of all these is enough to get you going.
 However you can continue building these skills while you are learning machine learning.
 
-Start from https://www.elementsofai.com/ and then move to `Andrew Ng’s - Introduction To Machine Learning` course. Also this is a good course for applied machine learning. Andrew's course is more theoratical than practical, and `FAST.ai's MOOC` is really encouraged for those who want a good hands on as well.
+Start from https://www.elementsofai.com/ and then move to `Andrew Ng’s - Introduction To Machine Learning` course. Also this is a good course for applied machine learning. Andrew's course is more theoretical than practical, and `FAST.ai's MOOC` is really encouraged for those who want a good hands on as well.
 
 Some machine learning components that you should have good grasp with:
 
@@ -237,7 +237,7 @@ The following are some good resources to answer this:
 Here are some fantastic pieces of advice from around the Internet:
 
 - Maintain and contribute to Open Source Software.
-- Use more than one programminglanguage
+- Use more than one programming language
 - Demonstrate more than one deployment type (web, cloud, desktop, mobile etc), specially early in your career.
 - Show your work in blogs and videos.
 - Don't be a fanboy/girl.
@@ -246,7 +246,7 @@ Get into competitons. Try out Speed Programming if you like it! For that, you ca
 
 - CodeForces
 - LeetCode
-- HackerRankt
+- HackerRank
 - Codewars
 
 Also Check:
