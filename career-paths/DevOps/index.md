@@ -6,14 +6,13 @@ comments: true
 
 # DevOps
 
-DevOps is the modern approach in `Agile` to solve the problem of the communication problem between the `tester`, the `developer`, and the `operations`. In the software development cycle, the developer is the person that is meant to develop those features in code, the tester is meant to make sure all the tests are satisfied and nothing breaks in the development environment. The `operations` has to take care that pushing those new changes into the production environment does not break anything else. Those whole cycle mainly comprises of the following main points,
+DevOps is the modern approach in `Agile` to solve the problem of the communication between the `tester`, the `developer`, and the `operations` team. In the software development cycle, the developer is the person that is meant to develop features in code, the tester is meant to make sure all the tests are satisfied and nothing breaks in the development environment. The `operations` has to take care of pushing those new changes into the production environment and to make sure it does not break anything else. This whole cycle mainly comprises of the following main points,
 
-1. Design
-2. Monitoring ( Alerts and Policies )
-3. Debugging
-4. Services
+1. Designing (the infrastructure and networking)
+2. Observability (implementing Logging, Metrics and Tracing)
+3. Automation (CI/CD pipelines, deployments, auto-scaling )
 
-And the ideas has been the developer wants to make changes and push those to the production as soon as possible, also called `early to market`, but doing this in the past has resulted in the Ops person receiving calls at 2 AM in the morning about something critical breaking - no one likes that. The `Ops` person on the other hand wants to strive to maintain as much as coverage and stability as possible, and always pushing new changes ( increasing the velocity ) leads to breaks - which isundesired.
+The idea is that developer wants to make changes and push those to the production as soon as possible, also called `early to market`, but doing this in the past has resulted in the Ops person receiving calls at 2 AM in the morning about something critical breaking - no one likes that. The `Ops` person on the other hand wants to strive to maintain as much stability as possible, and always pushing new changes ( increasing the velocity ) leads to breaks - which is undesired.
 
 So the idea has been mainly on focusing on automation in order to make changes as quickly as possible, and finding the way to maintan good velocity as well as stability.
 
@@ -44,17 +43,16 @@ So the idea has been mainly on focusing on automation in order to make changes a
 
 The modern DevOps consists of automated sets of tests that keep checking if the new changes break anything, it has an automated sense of commands that take in some configuration files, make sense of the changes, and apply those settings to a containzired environment. Usually, you'll find the changes being `deployed` to `containers` that have the complete environment setup for the customer. 
 
-So what is the remaining work? It's to configure `.json`, `.yaml / .yml` files that take in `manifestations` of the `images` that you want to push to production and making sure and note of what changes happen when and what breaks and what's get fixed, most likely through a versioning tool such as `git`. Companies also prefer to use `gitlab` and `bitbucket` for extra features.
+So what is the remaining work? It's to configure `.json`, `.yaml / .yml` files that take in `manifestations` of the `images` that you want to push to production and making sure and note of what changes happen when and what breaks and what's get fixed, most likely through a versioning tool such as `git`. Companies also prefer to use `github`, `gitlab` or `bitbucket` for extra features.
 
 Want to see a repo with all these concepts and questions? Check out [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide)!
 
 # Technologies
 
-- Git / Github  
+- Git / GitHub  
 - Docker 
 - Ansible 
-- Jenkins 
-- Github / Git 
+- Jenkins
 - Maven 
 - Kubernetes 
 - Selenium 
@@ -67,17 +65,25 @@ Want to see a repo with all these concepts and questions? Check out [Tikam02/Dev
 Before you get started, you should be familiar with these ideas,
 
 - Test Driven Development
-- Continuous Delivery
 - Continuous Integration
+- Continuous Delivery
+- Continuous Deployment
 - Agile 
 - Modern Software Development Cycle
 - Working With A CLI
-- Containerization
+- Containerization and orchestration
 - Versioning Systems
+- Infrastructure as Code (IaC)
 
 # People To Follow
 
 # FAQ
+
+### Is DevOps a title (designation or role), a team, a practice or something else?
+#### DevOps is the set of practices and mindset for modern software delivery. It provides highlevel guidelines on automation, continuous improvements, and increasing the end to end value in software development lifecycle. 
+
+### What is SRE (Site Reliability Engineering)? How is it different from DevOps?
+#### SRE is a term coined by Google. SRE is one of the way to implement DevOps and can be understood as a concrete set of practices based on abstraction defined by DevOps. SRE has terms like Toil, SLIs, SLOs, SLAs, etc which all serve a purpose to improve overall system value.
 
 # Learning Materials
 
@@ -123,6 +129,7 @@ Before you get started, you should be familiar with these ideas,
   - Tutorial on Alex's Site: [Your Lean Startup](https://www.alexandercowan.com/creating-a-lean-startup-style-assumption-set/). This tutorial will allow you to review the fundamentals and a few case studies. It also links to the applicable Venture Design templates.
 
 ## Youtube Channels
+- Playlist in Google Cloud Platform youtube channel [class SRE implements DevOps](https://www.youtube.com/watch?v=uTEL8Ff1Zvk&list=PLIivdWyY5sqJrKl7D2u-gmis8h9K66qoj)
 
 ## MISC
 
