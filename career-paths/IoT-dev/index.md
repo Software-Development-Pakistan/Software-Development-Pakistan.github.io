@@ -38,11 +38,12 @@ The [IEEE](https://www.ieee.org/) has compiled data and makes the following clai
 - Agriculture
 - Military
 
-# Sources
+# Courses 
 
 
 ## Books / Documentation
 
 ## Videos
+[Internet of Things - How it works](https://www.youtube.com/watch?v=QSIPNhOiMoE&feature=emb_title)
 
 ## MISC
