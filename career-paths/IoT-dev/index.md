@@ -39,7 +39,8 @@ The [IEEE](https://www.ieee.org/) has compiled data and makes the following clai
 - Military
 
 # Courses 
-
+- [An Introduction to Programming the IOT Specialization](https://www.coursera.org/specializations/iot) - Coursera
+- [Internet of Things and AI Specialist](https://www.piaic.org/iot) - PIAIC 
 
 ## Books / Documentation
 
