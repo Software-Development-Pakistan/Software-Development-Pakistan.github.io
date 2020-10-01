@@ -16,7 +16,9 @@ layout: page
   - [MISC](#misc)
 
 ## What is IoT 
-IoT stands for **I**nternet **O**f **T**hings. IoT refers to billions of physical devices around the world that are connected to the internet collecting, sharing and analyzing data.<br>
+![IoT image](../../images/The-Internet-of-Things--IoT--Tech-Stack-Explained.jpg)
+IoT stands for **I**nternet **O**f **T**hings. IoT refers to billions of physical devices around the world that are connected to the internet collecting, sharing and analyzing data. Thanks to cheap processors and wireless networks, it's possible to turn anything, from a pill to an aeroplane to a self-driving car into part of the IoT
+<br>
 The Internet Of Things is network of physical devices (Things) that are embedded with Sensors, Actuators , Software and other electronics over the internet through IP connectivity to integerate the physical world into our digital systems, Providing efficiency improvements and economical benifits.
 
 ## Application of IoT
@@ -37,6 +39,16 @@ The [IEEE](https://www.ieee.org/) has compiled data and makes the following clai
 - Retail
 - Agriculture
 - Military
+
+## Technology Stack for Iot 
+The IoT stack is rapidly developing and maturing into the Thing Stack. This Thing Stack consists of three technology layers: sensors, microcontrollers and internet connectivity, and service platforms.
+- **Layer One** - Sensors are embedded in objects (Things) or the physical environment to capture information and events from our environment, like a temperature sensor.
+
+- **Layer Two** - Microcontrollers and internet connectivity share information captured by sensors within your IoT objects and act based on this information to change the environment, like smart AC maintaining temperature of room.
+
+- **Layer Three** - Through the aggregation and analysis of data, service platforms cater to your customers. Service platforms also control your IoT product's end-to-end experience and enable your customers to define system rules and update firmware.
+
+Source : [THE INTERNET OF THINGS (IOT) TECH STACK EXPLAINED](https://www.cognitiveclouds.com/insights/the-internet-of-things-iot-tech-stack-explained/#:~:text=The%20IoT%20stack%20is%20rapidly,internet%20connectivity%2C%20and%20service%20platforms.)
 
 # Courses 
 - [An Introduction to Programming the IOT Specialization](https://www.coursera.org/specializations/iot) - Coursera
