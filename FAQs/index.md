@@ -49,29 +49,29 @@ Based on the feedback people have given on the group.
 
 ### Top Tier
 
-- Fast (Sindh, Punjab, ISB)
-- NUST (ISB)
-- LUMS (LHR)
-- Habib University (KHI)
-- Comsats (LHR, ISB)
-- GIKI (KPK)
+- [Fast (Sindh, Punjab, ISB)](https://nu.edu.pk/)
+- [NUST (ISB)](http://www.nust.edu.pk/Pages/Default.aspx)
+- [LUMS (LHR)](https://lums.edu.pk/)
+- [Habib University (KHI)](https://habib.edu.pk/)
+- [Comsats (LHR, ISB)](https://www.comsats.edu.pk/)
+- [GIKI (KPK)](https://www.giki.edu.pk/)
 
 ### Middle Tier
 
-- DHA Suffa (KHI)
-- NED (KHI)
-- Punjab University (LHR)
-- UET (Punjab, KPK)
-- IBA (KHI, SUKKER)
-- ITU
+- [DHA Suffa (KHI)](https://www.dsu.edu.pk/)
+- [NED (KHI)](https://www.neduet.edu.pk/)
+- [Punjab University (LHR)](http://www.pu.edu.pk/)
+- [UET (Punjab, KPK)](https://uet.edu.pk/)
+- [IBA (KHI, SUKKER)](https://www.iba.edu.pk/)
+- [ITU](https://itu.edu.pk/)
 
 ### The Rest
 
-- BUITEMS (Balochistan)
-- Bahria University
-- Air university
-- Iqra University
-- SZABIST
+- [BUITEMS (Balochistan)](https://www.buitms.edu.pk/)
+- [Bahria University](https://www.bahria.edu.pk/)
+- [Air university](https://www.au.edu.pk/)
+- [Iqra University](https://iqra.edu.pk/)
+- [SZABIST](https://szabist.edu.pk/)
 
 P.S: Take this with a pinch of salt since it's an opinionated list :)
 
