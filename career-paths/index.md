@@ -45,6 +45,7 @@ Make sure to add the following content matter at the very top, before everything
 ---
 title: Title Of Your Page 
 layout: page
+comments: true
 ---
 ```
 
