@@ -49,7 +49,7 @@
 
   .avatar {
     border: 2px solid _palette(accent);
-    box-shadow: 0 0 1px 7px rgba(_palette(accent),.2);
+    box-shadow: 0 0 1px 7px rgba(_palette(accent), 0.2);
     border-radius: 100%;
     display: block;
     -o-object-fit: cover;
@@ -91,8 +91,8 @@
   position: absolute;
   right: -100%;
   top: 0;
-  -webkit-transition: right .3s, visibility 0s .3s;
-  transition: right .3s, visibility 0s .3s;
+  -webkit-transition: right 0.3s, visibility 0s 0.3s;
+  transition: right 0.3s, visibility 0s 0.3s;
   visibility: hidden;
   width: 100%;
   z-index: 90;
@@ -150,7 +150,7 @@
     &:not(.button) {
       border: 0;
       color: inherit;
-  
+
       &:hover {
         color: _palette(accent);
       }
@@ -189,11 +189,11 @@
       height: 2em;
       line-height: 2em;
       width: 2em;
-  
+
       &:hover {
         background: _palette(accent);
         border-color: _palette(accent);
-        box-shadow: 0 0 1px 5px rgba(_palette(accent),.2);
+        box-shadow: 0 0 1px 5px rgba(_palette(accent), 0.2);
         color: #fff;
       }
     }
@@ -282,7 +282,7 @@
 
     .avatar {
       border-width: 3px;
-      box-shadow: 0 0 1px 11px rgba(_palette(accent),.2);
+      box-shadow: 0 0 1px 11px rgba(_palette(accent), 0.2);
       object-fit: cover;
       height: 100px;
       width: 100px;
@@ -350,9 +350,46 @@
     }
     .site-navigation {
       right: 0;
-      -webkit-transition: right .3s ease-in-out;
-      transition: right .3s ease-in-out;
+      -webkit-transition: right 0.3s ease-in-out;
+      transition: right 0.3s ease-in-out;
       visibility: visible;
     }
+  }
+}
+
+.github-corner:hover .octo-arm {
+  animation: octocat-wave 560ms ease-in-out;
+}
+@keyframes octocat-wave {
+  0%,
+  100% {
+    transform: rotate(0);
+  }
+  20%,
+  60% {
+    transform: rotate(-25deg);
+  }
+  40%,
+  80% {
+    transform: rotate(10deg);
+  }
+}
+.feedback-button {
+  position: fixed;
+  right: 3%;
+  bottom: 3%;
+  padding: 10px 25px;
+  background-color: #5db35f;
+  border-radius: 5px;
+  a {
+    color: white;
+    text-decoration: none;
+    border-bottom: none;
+    font-weight: bold;
+  }
+}
+@media (max-width: 800px) {
+  .github-corner {
+    display: none;
   }
 }

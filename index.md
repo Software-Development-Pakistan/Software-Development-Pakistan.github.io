@@ -39,10 +39,6 @@ This repository is currently maintained and moderated by:
 
 Please free feel to reach out in case of questions, suggestions, ideas and any possible issues that may arise.
 
-## Feedback
-
-Want to help us improve? [Let us know!](https://docs.google.com/forms/d/e/1FAIpQLSf2XbAcp7UOTl_0HvPB1X0Z0oY5bYv32JmybtlGRxPPbihdbA/viewform?usp=sf_link)
-
 ## Note
 
 Most of the ideas and lists presented here are the opinions of the Moderator(s) / Admin(s). Plesae feel free to disagree, and take away anything that is useful for you. This is just meant to server a beginner's guide to this huge field, so the target audience here are beginners, students, and hobbyists willing to take the time to understand the field.
