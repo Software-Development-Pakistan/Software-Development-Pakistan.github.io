@@ -1,5 +1,5 @@
 /**
- * Posts adn Pages
+ * Posts and Pages
  */
 .post {
   margin-bottom: 3.33333em;
@@ -11,7 +11,7 @@
 }
 
 .post-title {
-  font-size: 2.66667em;
+  font-size: 2.88889em;
   margin: 0 0 1.66667rem;
 
   a {
@@ -163,7 +163,8 @@
   }
 }
 
-@media only screen and (min-width: 801px) and (max-width: 1000px), only screen and (max-width: 600px) {
+@media only screen and (min-width: 801px) and (max-width: 1000px),
+only screen and (max-width: 600px) {
   .post-card {
     -webkit-box-flex: 0;
     -ms-flex: 0 0 100%;
