@@ -49,23 +49,23 @@ h1 {
 }
 
 h2 {
-  font-size: 1.88889em;
+  font-size: 1.66667em;
 }
 
 h3 {
-  font-size: 1.55556em;
-}
-
-h4 {
   font-size: 1.33333em;
 }
 
-h5 {
+h4 {
   font-size: 1.11111em;
 }
 
+h5 {
+  font-size: 0.99999em;
+}
+
 h6 {
-  font-size: 0.88889em;
+  font-size: 0.66667em;
   letter-spacing: 0.0625em;
   text-transform: uppercase;
 }
@@ -164,8 +164,8 @@ ol {
   padding: 0 0 0 1.33333em;
 }
 
-li > ul,
-li > ol {
+li>ul,
+li>ol {
   margin-bottom: 0;
 }
 
@@ -279,7 +279,7 @@ textarea {
     right: 10px;
     top: 50%;
     z-index: 1;
-  } 
+  }
 
   &:before {
     border-top-color: _palette(meta);
@@ -352,13 +352,13 @@ input[type="reset"],
   &:active {
     background: transparent;
     border-color: _palette(accent);
-    box-shadow: 0 0 1px 0.5em rgba(_palette(accent),.2);
+    box-shadow: 0 0 1px 0.5em rgba(_palette(accent), .2);
     color: _palette(secondary);
     outline: 0;
   }
 }
 
-.button-icon  {
+.button-icon {
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
@@ -415,8 +415,8 @@ img {
 
 /* Text meant only for screen readers */
 .screen-reader-text,
-.site-logo + .site-identity .site-title,
-.site-logo + .site-identity .site-description {
+.site-logo+.site-identity .site-title,
+.site-logo+.site-identity .site-description {
   border: 0;
   clip: rect(1px, 1px, 1px, 1px);
   height: 1px;
