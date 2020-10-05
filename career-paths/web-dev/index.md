@@ -68,10 +68,11 @@ Some popular stacks are,
 
 1. **_MEAN_** ( *M*ongoDB *E*xpress *A*ngular *N*odeJS )
 2. **_MERN_** ( *M*ongoDB *E*xpress *R*eact *N*odeJS )
-3. **_LAMP_** ( *L*inux *A*pache *M*ySQL *P*HP )
-4. **_LEMP_** ( *L*inux *N*ginx *M*ySQL *P*HP )
-5. **_Django_** ( Python Django MySQL )
-6. **_Ruby On Rails_** ( Ruby SQLite Rails )
+3. **_MEVN_** ( *M*ongoDB *E*xpress *V*ue *N*odeJS )
+4. **_LAMP_** ( *L*inux *A*pache *M*ySQL *P*HP )
+5. **_LEMP_** ( *L*inux *N*ginx *M*ySQL *P*HP )
+6. **_Django_** ( Python Django MySQL )
+7. **_Ruby On Rails_** ( Ruby SQLite Rails )
 
 Where,
 
@@ -83,22 +84,23 @@ Where,
 >
 > - [IBM](https://www.ibm.com/cloud/learn/nosql-databases)
 
-4. Angular is JS framework
-5. React is another JS framework
-6. Linux is an Operating System
-7. Apache is a Open Source Software based server
-8. PHP is another language like JS
-9. Nginx ( say _Engine X_ ) is another way to maintain a server
-10. Python is a language
-11. Django is a "batteries-packed" web framework.
-12. MySQL is a SQL database
+4. Angular is a JS framework
+5. React is a JS library
+6. Vue is a JS framework
+7. Linux is an Operating System
+8. Apache is an Open Source Software based server
+9. PHP is another language like JS
+10. Nginx ( say _Engine X_ ) is another way to maintain a server
+11. Python is a language
+12. Django is a "batteries-packed" web framework.
+13. MySQL is a SQL database
 
 > A database in SQL Server is made up of a collection of tables that stores a specific set of structured data.
 >
 > - [Microsoft](https://docs.microsoft.com/en-us/sql/relational-databases/databases/databases?view=sql-server-ver15)
 
-13. Ruby is a very mature dynamic language, much like Python and JS
-14. _Ruby on Rails_ ( or just _Rails_ ) is a framework also very popular for web dev
+14. Ruby is a very mature dynamic language, much like Python and JS
+15. _Ruby on Rails_ ( or just _Rails_ ) is a framework also very popular for web dev
 
 # General
 
@@ -110,19 +112,17 @@ After that, try out deploying one of your creations somewhere on a web hosting w
 
 # People To Follow
 
+A few well know experts related to web dev. You can follow them on twitter
+
+1. [Addy Osmani](https://twitter.com/addyosmani)
+2. [Kent C. Dodds](https://twitter.com/kentcdodds)
+3. [Dan Abramov](https://twitter.com/dan_abramov)
+4. [Brad Traversy](https://twitter.com/traversymedia)
+5. [Wes Bos](https://twitter.com/wesbos)
+
 # FAQ
 
 # Learning Materials
-
-If you're looking for YT channels, check out,
-
-1. [Coding Tech](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ)
-2. [Colt Steel](https://www.youtube.com/channel/UCrqAGUPPMOdo0jfQ6grikZw)
-3. [Travery Media](https://www.youtube.com/user/TechGuyWeb)
-4. As always, [FreeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)!
-5. [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)
-6. [Learn Code Academy](https://www.youtube.com/user/learncodeacademy)
-7. [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)
 
 If you reading documentation ( **_yay_** ), each technology has a corresponding documentation that you can google for. Other than that, do check out,
 
@@ -132,6 +132,7 @@ If you reading documentation ( **_yay_** ), each technology has a corresponding 
 For further references or a bigger picture, or future reading,
 
 1. [Web Dev 2020 Roadmap - Traversy Media](https://www.youtube.com/watch?v=0pThnRneDjw&t=3792s)
+2. [Web Skills - A visual overview of useful skills to learn as a web developer](https://andreasbm.github.io/web-skills/)
 
 > PSST, add other stuff here later on
 
@@ -142,6 +143,17 @@ Or maybe see the [Learning Resources File](https://github.com/Software-Developme
 ## Books To Look Into
 
 ## Youtube Channels
+
+1. [Coding Tech](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ)
+2. [Colt Steel](https://www.youtube.com/channel/UCrqAGUPPMOdo0jfQ6grikZw)
+3. [Travery Media](https://www.youtube.com/user/TechGuyWeb)
+4. As always, [FreeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)!
+5. [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)
+6. [Learn Code Academy](https://www.youtube.com/user/learncodeacademy)
+7. [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)
+8. [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
+9. [Level Up Tuts](https://www.youtube.com/c/LevelUpTuts)
+10. [Dev Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q)
 
 ## MISC
 
