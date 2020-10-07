@@ -146,7 +146,7 @@ Or maybe see the [Learning Resources File](https://github.com/Software-Developme
 
 1. [Coding Tech](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ)
 2. [Colt Steel](https://www.youtube.com/channel/UCrqAGUPPMOdo0jfQ6grikZw)
-3. [Travery Media](https://www.youtube.com/user/TechGuyWeb)
+3. [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
 4. As always, [FreeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)!
 5. [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)
 6. [Learn Code Academy](https://www.youtube.com/user/learncodeacademy)
