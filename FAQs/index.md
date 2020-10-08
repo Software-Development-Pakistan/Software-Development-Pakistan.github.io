@@ -22,7 +22,7 @@ Members are encouraged to ask questions in the [community group](https://www.fac
 
 At least among the above 3 degrees, the difference in the curriculum is so little that it doesn’t even matter eventually. For more answers, check this or search the group.
 
-Some releted posts are,
+Some related posts are,
 
 - [Saif Ul Islam](https://web.facebook.com/groups/softdevpk/permalink/1037123463411345/)
 - [Rosalin Rose](https://web.facebook.com/groups/softdevpk/permalink/1027329417724083/)
