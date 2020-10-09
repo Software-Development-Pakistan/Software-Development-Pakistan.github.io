@@ -18,7 +18,7 @@ So the idea has been mainly on focusing on automation in order to make changes a
 
 ## Table Of Contents
 - [DevOps](#devops)
-  - [Table Of Contents](#table-of-contents)
+- [Table Of Contents](#table-of-contents)
 - [Please Read First](#please-read-first)
 - [An Introduction](#an-introduction)
 - [Technologies](#technologies)
@@ -49,31 +49,44 @@ Want to see a repo with all these concepts and questions? Check out [Tikam02/Dev
 
 # Technologies
 
-- Git / GitHub  
-- Docker 
-- Ansible 
-- Jenkins
-- Maven 
-- Kubernetes 
-- Selenium 
-- Gradle 
+For being a DevOps practitioner, you should be familiar with these ideas:
+
+- Version Control and Source Code Management (SCM)
+  - Git / GitHub / GitLab / BitBucket
+- Virtualization
+  - Docker / Virtual Machines (VM)
+- Configuration Management
+  - Ansible / Chef / Puppet
+- Automation (CI/CD) Server
+  - Jenkins / TeamCity / Circle CI / BuildKite / Azure DevOps / BitBucket Pipelines / GitLab / GitHub Actions / etc.
+- Scripting
+  - Bash / Python / Perl / etc.
+- Orchestrator Engine
+  - Kubernetes / Docker Swarm / Docker Compose / AWS ECS
+- Automated Testing
+  - Test Driven Development (TDD), BDD, etc.
+- Code Quality
+  - SonarQube
+- Delivery Reports
+  - DORA Metrics
+- Cloud Computing
+  - Amazon Web Services (AWS), Google Cloud Platform (GCP), Microsoft Azure
+- Infrastructure as Code (IaC)
+  - Terraform / AWS CloudFormation / Plumi
+- Agile
+  - Scrum / Kanban / Lean
+- Working With CLI
+  - Zsh / Fish / Bash / AWS CLI
+- Continuous Integration
+- Continuous Delivery
+  - Docker Hub / GitHub / JFrog / etc.
+- Continuous Deployment
+  - Ansible / CodeDeploy / etc.
 
 # General
 
 # Getting Started
-
-Before you get started, you should be familiar with these ideas,
-
-- Test Driven Development
-- Continuous Integration
-- Continuous Delivery
-- Continuous Deployment
-- Agile 
-- Modern Software Development Cycle
-- Working With A CLI
-- Containerization and orchestration
-- Versioning Systems
-- Infrastructure as Code (IaC)
+It is hard to justify what is DevOps or how to implement it in a proper way. You can read about it in [FAQs](#faq). To become an engineer with firm DevOps concepts you have to be a Developer or Operations person at first. Then you pivot into being a DevOps Engineer or Systems Engineer as it is formally called. An extension to DevOps is Site Reliability Engineering (SRE). A complete DevOps person would know one of the technology from each segment mentioned in [Technologies](#technologies).
 
 # People To Follow
 
@@ -90,6 +103,7 @@ Before you get started, you should be familiar with these ideas,
 ## Courses
 
 ## Books To Look Into
+- [Continuous Delivery in the Wild by Pete Hodgson](https://www.oreilly.com/library/view/continuous-delivery-in/9781492077701/)
 
 ## For Testing Software
 - ***Sample Application On JSFiddle***
