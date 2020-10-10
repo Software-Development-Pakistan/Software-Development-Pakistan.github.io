@@ -1,13 +1,14 @@
 ---
-title: Android Development
+title: Architect
 layout: page
 comments: true
 ---
 
-Android Development resources here. Self explanatory
+This career path is related to Software Development, and includes roles, such as Data Engineering Architect, Cloud Architect, IoT architect, etc.
+
+_Note_: See #51, which is the relevant issue for the creation of this career path.
 
 ## Table Of Contents
-
 - [Please Read First](#please-read-first)
 - [An Introduction](#an-introduction)
 - [Technologies](#technologies)
@@ -17,9 +18,7 @@ Android Development resources here. Self explanatory
 - [FAQ](#faq)
 - [Learning Materials](#learning-materials)
   - [Books To Look Into](#books-to-look-into)
-  - [Competitions](#competitions)
   - [Courses](#courses)
-  - [Interestin Applications](#interestin-applications)
   - [Youtube Channels](#youtube-channels)
   - [MISC](#misc)
 - [References](#references)
@@ -28,7 +27,7 @@ Android Development resources here. Self explanatory
 
 # An Introduction
 
-Technology focused on making mobile applications, see more [here](https://developer.android.com/)!
+Technology focused on designing systematic solutions, and similar ideas..
 
 # Technologies
 
@@ -44,11 +43,7 @@ Technology focused on making mobile applications, see more [here](https://develo
 
 ## Books To Look Into
 
-## Competitions
-
 ## Courses
-
-## Interesting Applications
 
 ## Youtube Channels
 
