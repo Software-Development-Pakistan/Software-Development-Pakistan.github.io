@@ -9,6 +9,7 @@ This folder is supposed to serve a purpose as the main page where students, unde
 ## Table of Contents
 
 - [Android Development]({{site.url}}/career-paths/android-dev)
+- [Solution Architect]({{site.url}}/career-paths/architect)
 - [Cloud Development]({{site.url}}/career-paths/cloud-dev)
 - [Data Science]({{site.url}}/career-paths/data-science)
 - [DevOps]({{site.url}}/career-paths/DevOps)
