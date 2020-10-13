@@ -19,7 +19,7 @@ layout: page
 ![IoT image](../../images/The-Internet-of-Things--IoT--Tech-Stack-Explained.jpg)
 IoT stands for **I**nternet **O**f **T**hings. IoT refers to billions of physical devices around the world that are connected to the internet collecting, sharing and analyzing data. Thanks to cheap processors and wireless networks, it's possible to turn anything, from a pill to an aeroplane to a self-driving car into part of the IoT
 <br>
-The Internet Of Things is network of physical devices (Things) that are embedded with Sensors, Actuators , Software and other electronics over the internet through IP connectivity to integerate the physical world into our digital systems, Providing efficiency improvements and economical benifits.
+The Internet Of Things is a network of physical devices (Things) that are embedded with sensors, actuators, software and other electronics over the internet through IP connectivity to integrate the physical world into our digital systems, Providing efficiency improvements and economical benefits.
 
 ## Application of IoT
 IoT is one the key factors of Fourth Industrial Revolution. 
