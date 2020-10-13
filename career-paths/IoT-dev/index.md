@@ -22,7 +22,7 @@ IoT stands for **I**nternet **O**f **T**hings. IoT refers to billions of physica
 The Internet Of Things is a network of physical devices (Things) that are embedded with sensors, actuators, software and other electronics over the internet through IP connectivity to integrate the physical world into our digital systems, Providing efficiency improvements and economical benefits.
 
 ## Application of IoT
-IoT is one the key factors of Fourth Industrial Revolution. 
+IoT is one of the key factors of the fourth Industrial Revolution. 
 The [IEEE](https://www.ieee.org/) has compiled data and makes the following claims about its current and future impact:
 - In 2015, the global wearables market had already increased 223% from the previous year (and data on Statista shows it increasing by another 243% between 2015 and 2022)
 - By 2020, 250 million vehicles will be connected to the Internet
