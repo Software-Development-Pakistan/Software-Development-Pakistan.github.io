@@ -46,7 +46,7 @@ The IoT stack is rapidly developing and maturing into the Thing Stack. This Thin
 
 - **Layer Two** - Microcontrollers and internet connectivity share information captured by sensors within your IoT objects and act based on this information to change the environment, like smart AC maintaining temperature of room.
 
-- **Layer Three** - Through the aggregation and analysis of data, service platforms cater to your customers. Service platforms also control your IoT product's end-to-end experience and enable your customers to define system rules and update firmware.
+- **Layer Three** - Through the aggregation and analysis of data, service platforms cater to your customers. Service platforms also control your IoT product's end-to-end experience and enable your customers to define system rules and update the firmware.
 
 Source : [THE INTERNET OF THINGS (IOT) TECH STACK EXPLAINED](https://www.cognitiveclouds.com/insights/the-internet-of-things-iot-tech-stack-explained/#:~:text=The%20IoT%20stack%20is%20rapidly,internet%20connectivity%2C%20and%20service%20platforms.)
 
