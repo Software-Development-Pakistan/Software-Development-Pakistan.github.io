@@ -40,7 +40,7 @@ The [IEEE](https://www.ieee.org/) has compiled data and makes the following clai
 - Agriculture
 - Military
 
-## Technology Stack for Iot 
+## Technology Stack for IoT
 The IoT stack is rapidly developing and maturing into the Thing Stack. This Thing Stack consists of three technology layers: sensors, microcontrollers and internet connectivity, and service platforms.
 - **Layer One** - Sensors are embedded in objects (Things) or the physical environment to capture information and events from our environment, like a temperature sensor.
 
