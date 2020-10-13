@@ -48,7 +48,7 @@ Technology focused on making mobile applications, see more [here](https://develo
 
 ## Courses
 
-## Interestin Applications
+## Interesting Applications
 
 ## Youtube Channels
 
