@@ -44,7 +44,7 @@ The [IEEE](https://www.ieee.org/) has compiled data and makes the following clai
 The IoT stack is rapidly developing and maturing into the Thing Stack. This Thing Stack consists of three technology layers: sensors, microcontrollers and internet connectivity, and service platforms.
 - **Layer One** - Sensors are embedded in objects (Things) or the physical environment to capture information and events from our environment, like a temperature sensor.
 
-- **Layer Two** - Microcontrollers and internet connectivity share information captured by sensors within your IoT objects and act based on this information to change the environment, like smart AC maintaining temperature of room.
+- **Layer Two** - Microcontrollers and internet connectivity share information captured by sensors within your IoT objects and act based on this information to change the environment, like smart AC maintaining the temperature of the room.
 
 - **Layer Three** - Through the aggregation and analysis of data, service platforms cater to your customers. Service platforms also control your IoT product's end-to-end experience and enable your customers to define system rules and update the firmware.
 
