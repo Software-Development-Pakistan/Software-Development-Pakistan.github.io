@@ -1,5 +1,5 @@
 remote_theme: stackbithq/stackbit-theme-fresh
-title: Content Repository
+title:
 baseurl: /
 url: https://software-development-pakistan.github.io
 permalink: "/:title/"
