@@ -34,9 +34,9 @@ According to [Wikipedia](https://en.wikipedia.org/wiki/Software_architect), "A s
 Though an Architect generally does not code **features** but she should be hands on with development in order to understand and lead by example. Enterprise Architect is generally an exception as they work in very high level solutioning and integration of multiple systems. Architects use below technologies to share their vision with greater audience.
 
 - Diagramming Tools
-- Tech Radar
+- [Tech Radar](https://www.thoughtworks.com/radar)
 - Tech Principles / Guidelines
-- Joint sessions on Solutioning
+- Joint sessions on Solutioning, Interested Parties Reviews
 - Documentation Tools
 - Design, Architectural and/or Integration Patterns
 
@@ -77,9 +77,11 @@ He was one of the Software Engineers who developed **Agile Menifesto**. A very w
 # FAQ
 
 # Learning Materials
-- https://architectelevator.com
-- https://www.developertoarchitect.com
-
+- [Architect Elevator](https://architectelevator.com)
+- [Developer to Architect](https://www.developertoarchitect.com)
+- [AWS Reference Architectures](https://aws.amazon.com/solutions/constructs/patterns/?constructs-master-cards.sort-by=item.additionalFields.headline&constructs-master-cards.sort-order=asc) 
+- [Enterprise Integration Patterns] (https://www.amazon.com/o/asin/0321200683/ref=nosim/enterpriseint-20)
+- [The Software Architect Elevator](https://www.amazon.com/gp/product/1492077542/ref=as_li_tl?ie=UTF8&tag=enterpriseint-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1492077542&linkId=022635d342e374a80244523bbff4fdc3)
 
 ## Books To Look Into
 
@@ -88,6 +90,9 @@ He was one of the Software Engineers who developed **Agile Menifesto**. A very w
 ## Courses
 
 ## Youtube Channels
+
+- [Mark Richards Youtube Channel] (https://www.youtube.com/channel/UC-Z7T0lAq_xECevIz8E5R5w)
+
 
 ## MISC
 
