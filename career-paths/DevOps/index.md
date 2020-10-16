@@ -34,6 +34,7 @@ So the idea has been mainly on focusing on automation in order to make changes a
   - [Continuous Delivery](#continuous-delivery)
   - [Agile in General](#agile-in-general)
   - [Youtube Channels](#youtube-channels)
+  - [Roadmap](#roadmap)
   - [MISC](#misc)
 - [References](#references)
 
@@ -144,6 +145,9 @@ It is hard to justify what is DevOps or how to implement it in a proper way. You
 
 ## Youtube Channels
 - Playlist in Google Cloud Platform youtube channel [class SRE implements DevOps](https://www.youtube.com/watch?v=uTEL8Ff1Zvk&list=PLIivdWyY5sqJrKl7D2u-gmis8h9K66qoj)
+
+## Roadmap
+- [DevOps Roadmap](https://roadmap.sh/devops)
 
 ## MISC
 
