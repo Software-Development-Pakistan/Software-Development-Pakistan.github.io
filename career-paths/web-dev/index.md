@@ -36,31 +36,48 @@ a stage of rapid development and refining of the tools that we already have to m
 robust, easier to use, understand, and far more flexible than before.
 
 Web Development includes many sub categories of work, it includes `databases`, an understanding of
-`client-server side relationship`, `client side scripting`, `server side scripting`, creating beautiful `frontend design`, working with `backend` systems to handle data, `responsiveness`, and carrying the proper data between components.
+`client-server relationship`, `client side scripting`, `server side scripting`, creating beautiful `frontend design`, working with `backend` systems to handle data, `responsiveness`, and carrying the proper data between components.
 It can include `network configuration`, `commerical`, `entertainment`, `public` or `personal web development`.
 
 Web Development is usually broken up into `Frontend` and `Backend` design. What frontend refers to is usually the looks and style of the website / web application itself. Backend refers to how the different components interact with each other, how the data is handled behind the scenes, and what services are used that should not really be exposed to the user.
 
-People doing web dev are either referred to as,
+People working in this domain are referred to as:
 
 1. Frontend Developers
+  
+  Those who primarity work on client side technologies like HTML, CSS, JS (and JS based Frameworks)
+
 2. Backend Developers
+  
+  Those whose task is to create APIs, manage Database, and Server side application like those involved web application server
+
 3. Full Stack Developers
+
+  Developers who can develop both client and server side applications
 
 # Technologies
 
-Getting that out of the way, the main or most popular components of web dev are,
+The main or most popular components of client-side web development are:
 
 1. HTML, the skeleton of the web pages
 2. CSS, the looks of the web pages
 3. Javascript, the interactivity between and in the web pages
 
-Some other technologies used are,
+Other backend technologies (languages and frameworks) are:
 
-1. PHP
-2. Python
-3. C# with the ASP.NET framework
-4. Spring Framework, Java
+Languages:
+
+1. JavaScript
+- React, Vue, Ember, Backbone, Angular, etc.
+2. PHP
+- Laravel, CodeIgniter, Symfony, CakePHP, Yii, Zend, Drupal, etc.
+3. Python
+- Flask, Django, etc.
+4. C#
+-  ASP.NET framework
+5. Java 
+- Spring, Struts, GWT, etc.
+6. Other languages like Perl, Ruby, Go, etc.
 
 Most developers these days use different frameworks depending on their use case, and thus have different `stacks` that they use, which just means they use different conjunction of frameworks or technologies to meet their needs.
 
@@ -73,11 +90,12 @@ Some popular stacks are,
 5. **_LEMP_** ( *L*inux *N*ginx *M*ySQL *P*HP )
 6. **_Django_** ( Python Django MySQL )
 7. **_Ruby On Rails_** ( Ruby SQLite Rails )
+8. **_JAMSTACK_** (Javascript and Microserivces)
 
 Where,
 
-1. NodeJS is a runtime for JS
-2. ExpressJS is a framework on top of NodeJS
+1. NodeJS is a runtime for JavaScript
+2. ExpressJS is a web application framework on top of NodeJS
 3. MongoDB is a NoSQL database
 
 > NoSQL databases do not follow all the rules of a relational database —specifically, it does use a traditional row/column/table database design and does not use structured query language (SQL) to query data.
@@ -93,12 +111,7 @@ Where,
 10. Nginx ( say _Engine X_ ) is another way to maintain a server
 11. Python is a language
 12. Django is a "batteries-packed" web framework.
-13. MySQL is a SQL database
-
-> A database in SQL Server is made up of a collection of tables that stores a specific set of structured data.
->
-> - [Microsoft](https://docs.microsoft.com/en-us/sql/relational-databases/databases/databases?view=sql-server-ver15)
-
+13. MySQL is a Relational database
 14. Ruby is a very mature dynamic language, much like Python and JS
 15. _Ruby on Rails_ ( or just _Rails_ ) is a framework also very popular for web dev
 
@@ -147,7 +160,7 @@ Or maybe see the [Learning Resources File](https://github.com/Software-Developme
 1. [Coding Tech](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ)
 2. [Colt Steel](https://www.youtube.com/channel/UCrqAGUPPMOdo0jfQ6grikZw)
 3. [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
-4. As always, [FreeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)!
+4. [FreeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)!
 5. [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)
 6. [Learn Code Academy](https://www.youtube.com/user/learncodeacademy)
 7. [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)
