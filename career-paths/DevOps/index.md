@@ -94,54 +94,38 @@ It is hard to justify what is DevOps or how to implement it in a proper way. You
 # FAQ
 
 ### Is DevOps a title (designation or role), a team, a practice or something else?
-#### DevOps is the set of practices and mindset for modern software delivery. It provides highlevel guidelines on automation, continuous improvements, and increasing the end to end value in software development lifecycle. 
+DevOps is the set of practices and mindset for modern software delivery. It provides highlevel guidelines on automation, continuous improvements, and increasing the end to end value in software development lifecycle. It is not a role in the sense that having a DevOps Engineering with bad practices would not bring any value.
 
 ### What is SRE (Site Reliability Engineering)? How is it different from DevOps?
-#### SRE is a term coined by Google. SRE is one of the way to implement DevOps and can be understood as a concrete set of practices based on abstraction defined by DevOps. SRE has terms like Toil, SLIs, SLOs, SLAs, etc which all serve a purpose to improve overall system value.
+SRE is a term coined by Google. SRE is one of the way to implement DevOps and can be understood as a concrete set of practices based on abstraction defined by DevOps. SRE has terms like Toil, SLIs, SLOs, SLAs, etc which all serve a purpose to improve overall system value. SRE could be a role, a person who implements Site Reliability Engineering practices. 
+
+### What is Platform Engineering? How is it different from DevOps or SRE?
+Platform Engineers in old days used to be a bridge between hardware and software. They used to write software (or drivers) for hardware which other Software systems would use as underline platform. Recently Platform Engineering is about creating a standardized set of practices or setting up tools / technologies which other parts of the organisation use. It could be that Cloud environments are used by everyone in IT but managed by Platform Team as a standard. This way then can enforce certain security policies, usage patterns, etc. More details can be found [here](https://softwareengineeringdaily.com/2020/02/13/setting-the-stage-for-platform-engineering/)
+It is the implementation of DevOps and SRE practices and is a proper Role where as DevOps is not a role.
+
+### What is Systems Engineering? How is it different from terms mentioned above?
+Systems Engineering is a more formal way of defining the role which manages the infrastructure, standard platforms and DevOps practices. It could be any  combination of DevOps practices, Site Reliability Engineering and/or Platform Engineering. A systems engineer's focus is on improving the overall System rather than developing business features. It is better to name the role as Systems Engineer rather than DevOps engineer.
 
 # Learning Materials
 
 ## Courses
+- [AWS DevOps Engineering](https://aws.amazon.com/training/course-descriptions/devops-engineering/)
+- [ACloudGuru DevOps Courses](https://acloudguru.com/browse-training?role%5B%5D=dev-ops&type=course)
+- [Qwiklabs DevOps Essentials](https://www.qwiklabs.com/quests/96)
 
 ## Books To Look Into
 - [Continuous Delivery in the Wild by Pete Hodgson](https://www.oreilly.com/library/view/continuous-delivery-in/9781492077701/)
+- Continuous Delivery by Jez Humble: [Reliable Software Releases through Build, Test, and Deployment Automation](https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley-ebook-dp-B003YMNVC0/dp/B003YMNVC0/)
 
-## For Testing Software
-- ***Sample Application On JSFiddle***
-  - [Creating & Managing Users with Google Firebase + Domain Validator](https://jsfiddle.net/acowan/tsk607z9/). This is the sample application whose code appears in the test examples below.
-  - Unit Test Example on JS Fiddle: [Unit Testing Domain Validator (with Jasmine)](https://jsfiddle.net/acowan/esd4hL7r/). Taking look at a Unit Test.
-  - Unit Test Practice Problem on JS Fiddle: [Jasmine Test Hello World, Running oaccess n jsFiddle](https://jsfiddle.net/acowan/ya2dct10/). This is the simple 'Hello World' example you can play with if you're interested.
-  - Integration Test Example on JS Fiddle: [Integration Testing Domain Validator (with Jasmine)](https://jsfiddle.net/acowan/jynd54h0/).
-- ***Testing In General***
-  - Tutorial from ThoughtWorks on Test Suite Composition: [The Practical Test Pyramid. Note](https://martinfowler.com/articles/practical-test-pyramid.html): A look into the testing pyramid.
-  - Post from Simon Stewart at Google on Test Type Definitions: [Test Sizes](https://testing.googleblog.com/2010/12/test-sizes.html). This is the source of the test sizes (small (aka unit), medium (aka integration), large (aka system)) kind of referenced in the previous link
-  - Post from Alan Page of Angry Weasel on Integrated/Test-First vs. Silo'ed/Test-Last Schools: [Two new…schools?](https://angryweasel.com/blog/two-new-schools/).
-  - Parable from Alberto Savoia on Test Coverage: [What is a reasonable code coverage % for unit tests (and why)](https://stackoverflow.com/questions/90002/what-is-a-reasonable-code-coverage-for-unit-tests-and-why)?
-  - Wikipedia Page on Technical Debt: [Technical Debt](https://en.wikipedia.org/wiki/Technical_debt)
-- ***Test-Driven Development***
-  - Post by David Heinemeier Hansson on what he calls 'test-first fundamentalism': [TDD is dead. Long live testing](https://dhh.dk/2014/tdd-is-dead-long-live-testing.html). While many developers benefit from test-driven development (TDD) and advocate its practice, this is perspective you might find interesting, particularly regarding things your team may be grappling with as they consider and refine their practice of TDD.
-  - Discussions between Kent Beck, David Heinemeier Hansson, and Martin Fowler on TDD: [Is TDD Dead?](https://martinfowler.com/articles/is-tdd-dead/).
-
-## Doing the Jobs of Ops
+## DevOps and SRE
 - Interview with Ben Treynor, VP of Engineering at Google on the SRE Concept: [What is ‘Site Reliability Engineering’](https://landing.google.com/sre/interview/ben-treynor-sloss/)?
 - Short Form Piece on Infrastructure as Code by Martin Fowler: [InfrastructureAsCode](https://www.martinfowler.com/bliki/InfrastructureAsCode.html)
 - Krishelle Hardson-Hurley on Pivoting to an SRE Role: [So you want to be an SRE](https://hackernoon.com/so-you-want-to-be-an-sre-34e832357a8c)?
 - Asaf Yigal on SRE vs. DevOps: [SRE vs. DevOps — a False Distinction](https://devops.com/sre-vs-devops-false-distinction/#disqus_thread)?
 - Aymen El Amri on DevOps-Related Foundation Skills: [The Must Know Checklist For DevOps & Site Reliability Engineers](https://medium.com/faun/the-must-know-checklist-for-devops-system-reliability-engineers-f74c1cbf259d). I'm not sure every ops-employed person would 100% agree with this list. As the author says, 'This list is opinionated.'. However, I think at a minimum it's a good starter list to get a sense of what types of skills individuals in these roles tend to need.
 
-## Continuous Delivery
+## Continuous Integration
 - Video Overview of Continuous Integration from a Developer Perspective (Mattias Petter Johansson ): [Continuous Integration - What's the point?](https://www.youtube.com/watch?v=ymPOI4gWQFY) - [Continuous Integration P1 && Getting started with CircleCI](https://www.youtube.com/watch?v=7VxBn_ZgOek) - [Continuous Integration P2 && Running CircleCI on Pull Request - Continuous Integration P3](https://www.youtube.com/watch?v=iPKfeTWBGvU)
-- Continuous Delivery Book by Jez Humble: Continuous Delivery: [Reliable Software Releases through Build, Test, and Deployment Automation](https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley-ebook-dp-B003YMNVC0/dp/B003YMNVC0/)
-
-## Agile in General
-- Online Specialization on Coursera: [Agile Development](https://www.coursera.org/specializations/agile-development)
-- Tutorial on about agile on Alex's Site: [Agile - Just the Basics](https://www.alexandercowan.com/agile-just-basics/). This page covers…the basics. It's a good place to start if you want to understand the general nature of a topic and how it relates to the practice of agile.
-- Tutorial on about Using User Stories on Alex's Site: [Your Best Agile User Story](https://www.alexandercowan.com/best-agile-user-story/). This page covers the user story- how to prepare to write them, how to use them, and how to link them to implementation and testing.
-- ***Bringing Design to Agile***
-  - Tutorial on Alex's Site: [Venture Design](https://www.alexandercowan.com/venture-design/). This page provides a comprehensive set of resources. What I would do for a general overview is just read the intro to each of the areas (Personas, Problem Scenarios, etc.).
-  - Tutorial on Alex's Site: [Venture Design Sprints](https://www.alexandercowan.com/venture-design-sprints/). This page provides an overview of design sprints and four different focal types for those sprints: Problems, Motivation, Usability, and Architecture.
-- ***Bringing Lean Startup to Agile***
-  - Tutorial on Alex's Site: [Your Lean Startup](https://www.alexandercowan.com/creating-a-lean-startup-style-assumption-set/). This tutorial will allow you to review the fundamentals and a few case studies. It also links to the applicable Venture Design templates.
 
 ## Youtube Channels
 - Playlist in Google Cloud Platform youtube channel [class SRE implements DevOps](https://www.youtube.com/watch?v=uTEL8Ff1Zvk&list=PLIivdWyY5sqJrKl7D2u-gmis8h9K66qoj)
