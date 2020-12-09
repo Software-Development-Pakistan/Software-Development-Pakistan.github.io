@@ -100,6 +100,7 @@ It is hard to justify what is DevOps or how to implement it in a proper way. You
 #### SRE is a term coined by Google. SRE is one of the way to implement DevOps and can be understood as a concrete set of practices based on abstraction defined by DevOps. SRE has terms like Toil, SLIs, SLOs, SLAs, etc which all serve a purpose to improve overall system value.
 
 # Learning Materials
+- [Onboarding of SRE in Linkedin](https://github.com/linkedin/school-of-sre)
 
 ## Courses
 
@@ -152,3 +153,4 @@ It is hard to justify what is DevOps or how to implement it in a proper way. You
 ## MISC
 
 # References
+
