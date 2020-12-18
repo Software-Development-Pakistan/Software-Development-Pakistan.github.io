@@ -25,7 +25,76 @@ comments: true
 
 # An Introduction
 
+By definition, Software Developer is a technical engineering job of creating software applications using some kind of programming language, Operating System and/or Hardware on which program executes.
+
+Software Developer is a term which is loosely interchangable with many designations and roles. Below mentioned roles are all under the umbrella of Software Developer. Although it is also not established in the industry that what is the official or most accurate job role, hence there are no standards for it.
+
+- Software Engineer
+- Programmer
+- Coder
+- Developer
+
+Seniority in any of the role mentioned above outlines more experience and expansion of things to do but underline objective of creating software applications remains same. Sometimes organisations append technology or programming language before the title to emphasize on the requirement of technology. For e.g.: PHP Software Developer or Software Engineer - Java. 
+
+Term full-stack engineer / developer is used to identify a professional who can work on all the layers of application. Layers include Front-end, back-end, APIs, Infrastructure, Data layer, etc.
+
 # Technologies
+Technologies is a broad term to define tools, utilities or anything which is used to develop applications. It includes Operating System, Programming Languages, Frameworks, Architectures, Platforms, APIs, etc, etc. Some of these technolgoies are mentioned below for brevity only.
+
+## Programming Languages
+- C / C++
+- C#
+- Java
+- PHP
+- Perl
+- Python
+- Ruby
+- Go
+- Rust
+- Objective C
+- Swift 
+- Kotlin
+- Javascript
+- Lua
+- Basic
+- R and many others
+
+## Frameworks
+
+Frameworks are heavily influenced by programming languages most of the time. Due to the cardinality of them, list of frameworks are grouped for languages
+
+- Java (Struts, Spring, J2EE)
+- PHP (Laravel, CodeIgniter, Symfony, Yii, CakePHP, Wordpress)
+- C# (.NET Framework, Mono, WPF, WCF, ADO.NET)
+- Python (django, Flask, web2py, bottle)
+- Javascript (Angular, jQuery, Express.js, Next.js, React, Vue.js)
+
+## Operating Systems / Virtualizations
+
+- Android OS
+- iOS
+- Linux / Unix / Ubuntu
+- Windows
+- MacOS
+- Containers / Docker
+- Browser / Web
+
+## SESE (Software Engineering Support Environments)
+These are the tools or utilites which help in any phase of the lifecycle of software development.
+
+### IDE (Integrated Development Environment)
+- IntelliJ IDEA
+- Eclipse
+- PyCharm
+- Visual Studio
+- Visual Studio Code
+- vim
+- WebStrom
+- XCode
+- Android Studio
+- NetBeans
+- AWS Cloud9
+- AppCode
 
 # General
 
