@@ -128,6 +128,8 @@ Systems Engineering is a more formal way of defining the role which manages the 
 ## Continuous Integration
 - Video Overview of Continuous Integration from a Developer Perspective (Mattias Petter Johansson ): [Continuous Integration - What's the point?](https://www.youtube.com/watch?v=ymPOI4gWQFY) - [Continuous Integration P1 && Getting started with CircleCI](https://www.youtube.com/watch?v=7VxBn_ZgOek) - [Continuous Integration P2 && Running CircleCI on Pull Request - Continuous Integration P3](https://www.youtube.com/watch?v=iPKfeTWBGvU)
 
+- [Pull Requests vs Continuous Integration](https://infrastructure-as-code.com/book/2021/01/02/pull-requests.html) How can CI prevent the delays introduced by PRs.
+
 ## Youtube Channels
 - Playlist in Google Cloud Platform youtube channel [class SRE implements DevOps](https://www.youtube.com/watch?v=uTEL8Ff1Zvk&list=PLIivdWyY5sqJrKl7D2u-gmis8h9K66qoj)
 
