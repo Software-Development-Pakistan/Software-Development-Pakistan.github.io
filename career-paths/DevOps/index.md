@@ -130,6 +130,8 @@ Systems Engineering is a more formal way of defining the role which manages the 
 
 ## Youtube Channels
 - Playlist in Google Cloud Platform youtube channel [class SRE implements DevOps](https://www.youtube.com/watch?v=uTEL8Ff1Zvk&list=PLIivdWyY5sqJrKl7D2u-gmis8h9K66qoj)
+- [All about Cloud](https://www.youtube.com/channel/UCQnAN556-_JeXfiQi9SgN_g) A channel which has videos in Urdu about Cloud Computing
+
 
 ## Roadmap
 - [DevOps Roadmap](https://roadmap.sh/devops)
