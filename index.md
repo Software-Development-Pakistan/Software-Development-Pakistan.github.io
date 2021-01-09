@@ -15,7 +15,7 @@ A folder which contains guides for the different fields that might interest you.
 
 - [FAQ]({{site.url}}/FAQs)
 
-A kind of place where questions are answered about some common problems, myths, and ideas that people have in Pakistan about Software Development in general. Head over here if you are starting your bachelors in Computer Science / Software Engineering / Information Technology, or just want to read a list of commonely agreed upon opinions in the industry.
+A kind of place where questions are answered about some common problems, myths, and ideas that people have in Pakistan about Software Development in general. Head over here if you are starting your bachelors in Computer Science / Software Engineering / Information Technology, or just want to read a list of commonly agreed upon opinions in the industry.
 
 - [Learning Resources]({{site.url}}/learning-resources)
 
@@ -36,9 +36,10 @@ This repository is currently maintained and moderated by:
 - Syed Azeem Akhter [LinkedIn](https://www.linkedin.com/in/azma/), [Facebook](https://www.facebook.com/azimeister)
 - Muneeb Khan [LinkedIn](https://www.linkedin.com/in/muneebjs/), [Facebook](https://www.facebook.com/muneebjs)
 - Saif Ul Islam [LinkedIn](https://www.linkedin.com/in/saif-ul-islam-93786b187/), [Facebook](https://www.facebook.com/SaifUlIslam9820)
+- Hussain Mansoor [Site](https://husyn.dev)
 
 Please free feel to reach out in case of questions, suggestions, ideas and any possible issues that may arise.
 
 ## Note
 
-Most of the ideas and lists presented here are the opinions of the Moderator(s) / Admin(s). Plesae feel free to disagree, and take away anything that is useful for you. This is just meant to server a beginner's guide to this huge field, so the target audience here are beginners, students, and hobbyists willing to take the time to understand the field.
+Most of the ideas and lists presented here are the opinions of the Moderator(s) / Admin(s). Please feel free to disagree, and take away anything that is useful for you. This is just meant to server a beginner's guide to this huge field, so the target audience here are beginners, students, and hobbyists willing to take the time to understand the field.

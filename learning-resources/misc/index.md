@@ -1,5 +1,5 @@
 ---
-title: Miscellanous - Resources
+title: Miscellaneous - Resources
 layout: page
 comments: true
 ---
@@ -20,7 +20,7 @@ For topics and ideas to niche to fit in one place
   - [Reading](#reading-1)
   - [Videos](#videos-1)
   - [MISC](#misc-2)
-- [Entire Cirriculums And Guides](#entire-cirriculums-and-guides)
+- [Entire Curriculum And Guides](#entire-curriculum-and-guides)
 
 # Mathematics
 
@@ -53,7 +53,7 @@ What other resources can you find? Try out,
 
 ## Videos
 
-1. [MIT Open CourseWare - CS 6.006](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-spring-2008/), a must for students bored of their current cirriculum and looking at what MIT has to offer.
+1. [MIT Open CourseWare - CS 6.006](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-spring-2008/), a must for students bored of their current curriculum and looking at what MIT has to offer.
 
 ## MISC
 
@@ -66,7 +66,7 @@ What other resources can you find? Try out,
    - [Muhammad Kamran Qadri](https://web.facebook.com/groups/softdevpk/permalink/966099857180373/)
    - [Muhammad Kamran Qadri](https://web.facebook.com/groups/softdevpk/permalink/966755790448113/)
 
-# Entire Cirriculums And Guides
+# Entire Curriculum And Guides
 
 Some awesome guides!
 
