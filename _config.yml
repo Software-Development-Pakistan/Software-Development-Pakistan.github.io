@@ -1,12 +1,12 @@
 remote_theme: stackbithq/stackbit-theme-fresh
 title:
 baseurl: /
-url: https://software-development-pakistan.github.io
+url: https://softdevpk.com
 permalink: "/:title/"
 collections:
   posts:
     permalink: "/posts/:title/"
-description: Content repository.
+description: Pakistan's largest community of Software Developers
 layout_style: overflow
 palette: blue
 header:
