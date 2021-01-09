@@ -137,7 +137,7 @@ A few well know experts related to web dev. You can follow them on twitter
 
 # Learning Materials
 
-If you reading documentation ( **_yay_** ), each technology has a corresponding documentation that you can google for. Other than that, do check out,
+If you reading documentation, each technology has a corresponding documentation that you can google for. Other than that, do check out,
 
 1. For all your JS needs, [JavaScript Info](https://javascript.info/)!
 2. For newbies wanting a more comprehensive and detailed guide, [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)! <3
@@ -146,10 +146,6 @@ For further references or a bigger picture, or future reading,
 
 1. [Web Dev 2020 Roadmap - Traversy Media](https://www.youtube.com/watch?v=0pThnRneDjw&t=3792s)
 2. [Web Skills - A visual overview of useful skills to learn as a web developer](https://andreasbm.github.io/web-skills/)
-
-> PSST, add other stuff here later on
-
-Or maybe see the [Learning Resources File](https://github.com/Software-Development-Pakistan/Software-Development-Pakistan.github.io/blob/saif/Content/Learning-resources.md)?
 
 ## Courses
 
@@ -167,6 +163,10 @@ Or maybe see the [Learning Resources File](https://github.com/Software-Developme
 8. [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
 9. [Level Up Tuts](https://www.youtube.com/c/LevelUpTuts)
 10. [Dev Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q)
+
+## Podcasts
+
+- [Front End Happy Hour](https://frontendhappyhour.com) A podcast featuring a panel of Software Engineers from Netflix, Twitch, & Atlassian talking over drinks about all things Front End development.
 
 ## MISC
 
