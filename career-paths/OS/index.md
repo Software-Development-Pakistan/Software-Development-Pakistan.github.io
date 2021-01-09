@@ -4,7 +4,7 @@ layout: page
 comments: true
 ---
 
-Operating Systems refers to the understanding of lower lying hardware and technology that makes all the software run perfectly. It's about handlng the different work loads, optimizing the CPU performance, understanding how the memory and storage work, and how the software and hardware connect. It's really meant to help serve as a way to get a understanding of how to make software and technology talk to each other, and what the underlying OS does to make these two things communicate.
+Operating Systems refers to the understanding of low level hardware and technology that makes all the software runs perfectly. It's about handlng the different work loads, optimizing the CPU performance, understanding how the memory and storage work, and how the software and hardware connect. It's really meant to help serve as a way to get a understanding of how to make software and technology talk to each other, and what the underlying OS does to make these two things communicate.
 
 ## Table Of Contents
 
@@ -33,16 +33,16 @@ Operating Systems refers to the understanding of lower lying hardware and techno
 
 # An Introduction
 
-What does OS make it easier to understand? A lot, basically. To name a few,
+What does OS do, to make it easier to understand some of the functionalities are mentioned below:
 
 - Processes, their scheduling, how programs are handled in the background, and how can they can be optimally served
 - Threads and Concurrency, how you can schedule your work and functions to make them work faster
 - CPU Scheduling, which helps to make it easier to understand how the CPU manages to schedule and choose what work to do
-- Synchronization, what happens when two different programs try to access a block of memory at the same time?
-- Deadlocks, or most commonely known as, why does my Windows hang so much?
+- Synchronization, what happens when two different programs try to access a block of memory at the same time
+- Deadlocks, or most commonly known as, why does my OS hang so much?
 - Virtual Memory, how you load bigger programs into memory, even though their size is greater than your RAM
 - File System, how OS store and allocate files and folders, and how they keep a track of it
-- Virtual Machines, how can you run 2 OS on the same hardware? How does Docker run images on an OS? How can you run a Linux instance in a virtualbox?
+- Virtual Machines, how can you run 2 OS on the same hardware? How does Docker run containers on an OS? How can you run a Linux instance in a virtualbox
 - Networks and Distributed Systems, how and which OS treat network interfaces
 
 # Technologies
@@ -57,9 +57,9 @@ Working with an OS from scratch means a good understanding of the underlying har
 
 So what `Linux` or `distribution of Linux` should you choose? It depends on what metrics you use and what is important to you. There are some basic [`trees`](https://en.wikipedia.org/wiki/List_of_Linux_distributions#/media/File:Linux_Distribution_Timeline.svg) of distributions, which means there are some OS which contain the Linux kernel, and have their own spin on it. The only thing about distros that make them Linux is the kernel they have, and the libraries they use. For example, the system call library functionalities that you used in OS were part of GNU - GNU has a `glibc` which means they have a library written in C which interacts with the Linux kernel.
 
-The commands you run on the `terminal` ( _or the bash shell_ ), that's the interface and call to the kernel to do that.
+The commands you run on the `terminal` ( _or the shell_ ), that's the interface and call to the kernel to do that.
 
-If you haven't guessed already, this guide is about working with and building Operating Systems by using Linux itself. This is not a guide if you want to build something from scratch. Please checkout [OS Dev](osdev.org) for that.
+If you haven't selected already, this guide is about working with and building Operating Systems by using Linux itself. This is not a guide if you want to build something from scratch. Please checkout [OS Dev](osdev.org) for that.
 
 ## Installation In Windows!
 
@@ -75,7 +75,7 @@ Before you get into any kind of Linux, please read about the following to unders
 4. Filesystems in Linux are way different than in Windows
 5. Package managers and software repositories
 
-However, if you want to install Linux on your disk, please continue reading,
+However, if you want to install Linux on your disk, please continue reading.
 
 Now, the next thing is that you look at what is important to you. Here are some criteria,
 
@@ -87,14 +87,14 @@ Now, the next thing is that you look at what is important to you. Here are some 
 
 ## Updates
 
-There are two contrasts here, there is a,
+There are two contrasts here, there is:
 
-- Non-rolling release
+- Non-rolling release and
 - Rolling release
 
-A **_non-rolling release_**, for example, is the debian family or 'tree', which ubuntu is a part of. It basically means that the kernel is and system is designed with system versions of software. Which ultimately means that you can specify what versions of software you want for your machine, and give it to the kernel, and it will set it up for you. But that means that if you want to change the version numbers, you will have to upgrade the system.
+A **_non-rolling release_**, for example, is the debian family or 'tree', which ubuntu is a part of. It basically means that the kernel and system is designed with system versions of software. Which ultimately means that you can specify what versions of software you want for your machine, and give it to the kernel, and it will set it up for you. But that means that if you want to change the version numbers, you will have to upgrade the system.
 
-So for example, if you decided to use Ubuntu 18.04, you would get python 3.7.3. Now, we have Python 3.8.1, say you wanted to upgrade, but you can't.
+For example, if you decided to use Ubuntu 18.04, you would get python 3.7.3. Now, we have Python 3.8.1, say you wanted to upgrade, but you can't.
 
 Upgrading a basic software that comes pre packed with the OS itself means to build everything up from scratch. Which means if you want to use the next Python version or upgrade, you need to upgrade your system from scratch. It's useful to make a drive solely for the backup, and then upgrade, but it's not always ideal depending on how you've set it up.
 
@@ -117,13 +117,13 @@ _NOTE:_ that rolling releases are never used in server side or cloud stuff becau
 
 ## Security
 
-Kali Linux, Redhat, Fedora, Black Arch Linux come to mind, they have a preset of good configurations for security related measures when they are installed. They come with pre installed and pre setup software so that you can work on them quickly. There are some differences under the /etc/ folder for networking reasons.
+Kali Linux, Redhat, Fedora, Black Arch Linux come to mind, they have a preset of good configurations for security related measures when they are installed. They come with pre installed software so that you can work on them quickly. There are some differences under the /etc/ folder for networking reasons.
 
 ## Size
 
-Some distributions are lighter, and come with bare minimal software, so if you want to choose a light weight system based on your current hardware, look into Absolute Linux, Lubuntu, LXLE, Linux Lite, and other such distros.
+Some distributions are lighter with bare minimal software, so if you want to choose a light weight system based on your current hardware, look into Absolute Linux, Lubuntu, LXLE, Linux Lite, and other such distros.
 
-Remember that linux by itself has no gui. The gui you see in Ubuntu is either Unity or Gnome. These are called Desktop Environments. Some are heavier, some more CPU intensive than others, depending on what you prefer. Anything is fine, really, depending on how good of a hardware you have, and what your own preference is.
+Remember that linux by itself has no GUI. The GUI you see in Ubuntu is either Unity or Gnome. These are called Desktop Environments. Some are heavier, some more CPU intensive than others, depending on what you prefer. Anything is fine, depending on how good of a hardware you have, and what your own preference is.
 
 ## Server Side
 
