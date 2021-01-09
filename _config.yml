@@ -12,7 +12,7 @@ palette: blue
 header:
   title: Software Dev. Pakistan
   tagline: Pakistan's largest community of Software Developers
-  profile_img: images/avatar.jpeg
+  profile_img: assets/img/avatar.jpeg
   background: dark
   has_nav: true
   nav_links:
