@@ -2,6 +2,7 @@ remote_theme: stackbithq/stackbit-theme-fresh
 title:
 baseurl: /
 url: https://softdevpk.com
+favicon: 'favicon.ico'
 permalink: "/:title/"
 collections:
   posts:

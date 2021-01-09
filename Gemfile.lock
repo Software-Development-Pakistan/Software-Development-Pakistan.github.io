@@ -265,9 +265,11 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  jekyll-feed
   jekyll-menus (~> 0.6.0)
   jekyll-paginate (~> 1.1)
   jekyll-paginate-v2 (~> 1.9)
+  jekyll-sitemap
 
 BUNDLED WITH
    1.17.2
