@@ -4,7 +4,7 @@ layout: page
 comments: true
 ---
 
-This folder is supposed to serve a purpose as the main page where students, undergraduates, and people generally coming into the field of Computer Sience / Software Engineering, can look up information about the different careers, fields, and how to get into them - basically trying to give an overview of what they can learn and what they can do.
+This folder is supposed to serve a purpose as the main page where students, undergraduates, and people generally coming into the field of Computer Science / Software Engineering, can look up information about the different careers, fields, and how to get into them - basically trying to give an overview of what they can learn and what they can do.
 
 ## Table of Contents
 
@@ -14,10 +14,10 @@ This folder is supposed to serve a purpose as the main page where students, unde
 - [Data Science]({{site.url}}/career-paths/data-science)
 - [DevOps]({{site.url}}/career-paths/DevOps)
 - [Network Security]({{site.url}}/career-paths/network-security)
-- [Operating Systems]({{site.url}}/career-paths/OS)
 - [Game Development]({{site.url}}/career-paths/game-dev)
 - [Software Development]({{site.url}}/career-paths/software-dev)
 - [Web Development]({{site.url}}/career-paths/web-dev)
+- [Engineering Manager]({{site.url}}/career-paths/engineering-manager/)
 
 ## Contribution Template
 
@@ -36,8 +36,8 @@ If you need examples, check the existing career paths documents.
 - [Learning Materials](#learning-materials), alright! So what are the learning materials?
   - [Courses](#courses), some courses you might wanna consider
   - [Books To Look Into](#books-to-look-into), this is for all the bookish people out there
-  - [Youtube Channels](#youtube-channels), but if you like visual learning, that's also there!
-  - [MISC](#misc), anything that doesn't fit above, blogs, list, articles, opinions, slides, lectures etcs
+  - [YouTube Channels](#youtube-channels), but if you like visual learning, that's also there
+  - [MISC](#misc), anything that doesn't fit above, blogs, list, articles, opinions, slides, lectures etc
 - [References](#references), things you should read about if you're new and want to research more.
 
 Make sure to add the following content matter at the very top, before everything else,
