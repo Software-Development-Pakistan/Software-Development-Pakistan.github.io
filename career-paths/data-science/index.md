@@ -308,3 +308,4 @@ Information that doesn't really fall into a concrete place here,
 - A [mind map](https://whimsical.com/CA7f3ykvXpnJ9Az32vYXva) of the things listed above, thanks to [Daniel Bourke](https://www.mrdbourke.com/), you can check out his YT channel [here](https://www.youtube.com/channel/UCr8O8l5cCX85Oem1d18EezQ)
 - Data Engineering, [comprehensive list](https://www.analyticsvidhya.com/blog/2018/11/data-engineer-comprehensive-list-resources-get-started/) to get started
 - See for Airbnb / Airflow related articles, here at [A Beginner's Guide To Data Engineering](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-i-4227c5c457d7), and here at [Using Machine Learning To Predict Value Of Homes On Airbnb](https://medium.com/airbnb-engineering/using-machine-learning-to-predict-value-of-homes-on-airbnb-9272d3d4739d)
+- [Machine Learning Crash Course, With TensorFlow APIs](https://developers.google.com/machine-learning/crash-course)
