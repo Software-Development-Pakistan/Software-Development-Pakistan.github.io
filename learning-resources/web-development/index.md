@@ -23,6 +23,8 @@ comments: true
 
 2. For newbies wanting a more comprehensive and detailed guide, [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)!
 
+3. [Freecodecamp.org/news](https://www.freecodecamp.org/news/)
+
 For further references or a bigger picture, or future reading,
 
 1. [Web Dev 2020 Roadmap - Traversy Media](https://www.youtube.com/watch?v=0pThnRneDjw&t=3792s)
@@ -51,3 +53,13 @@ For further references or a bigger picture, or future reading,
 10. [Dev Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q)
 
 ## MISC
+
+1. A collection of cheatsheets [Devhints.io](https://devhints.io/)
+
+2. Offline documentations [Devdocs.io](https://devdocs.io/)
+
+3. Collection of resources [Webgems.io](https://webgems.io/)
+
+4. [Freecodecamp.org/learn](https://www.freecodecamp.org/learn/)
+
+6. Practice with challenges: [Frontendmentor.io](https://www.frontendmentor.io/)
