@@ -66,6 +66,10 @@ What other resources can you find? Try out,
    - [Muhammad Kamran Qadri](https://web.facebook.com/groups/softdevpk/permalink/966099857180373/)
    - [Muhammad Kamran Qadri](https://web.facebook.com/groups/softdevpk/permalink/966755790448113/)
 
+3. [**Click here**](https://github.com/HypertextAssassin0273/Data_Structures_in_Cpp) to get custom & easy implementation of some **STL containers**, alongwith complete **FAST_Course_Spring_21** material (provided by [Shahzaib Khan](https://hypertextassassin0273.github.io/)).
+
+4. [**Here**](https://hypertextassassin0273.github.io/blog-posts/) are some very interesting & useful articles on Data-Structures in Cpp (contributed by [Shahzaib Khan](https://hypertextassassin0273.github.io/)).
+
 # Entire Curriculum And Guides
 
 Some awesome guides!
