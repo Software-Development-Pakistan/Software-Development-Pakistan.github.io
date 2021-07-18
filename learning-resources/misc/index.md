@@ -64,7 +64,7 @@ What other resources can you find? Try out,
 
 1. [Visualgo.net](https://visualgo.net/en) is a pretty excellent place if you want a general visual overview of all the different kinds of tools that we have in Data Structures.
 
-2. [Interesting & nifty articles](https://hypertextassassin0273.github.io/blog-posts/) on various Data-Structures topics in C++ 
+2. [Interesting & nifty articles](https://hypertextassassin0273.github.io/blog-posts/) on various Data-Structures topics in C++
 (contributed by [Shahzaib Khan](https://hypertextassassin0273.github.io/)).
 
 3. Some related posts on Facebook page,
