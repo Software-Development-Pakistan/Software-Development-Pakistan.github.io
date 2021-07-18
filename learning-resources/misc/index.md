@@ -55,11 +55,17 @@ What other resources can you find? Try out,
 
 1. [MIT Open CourseWare - CS 6.006](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-spring-2008/), a must for students bored of their current curriculum and looking at what MIT has to offer.
 
+## Repository
+
+- [Custom C++ STL Containers Implementation](https://github.com/HypertextAssassin0273/Data_Structures_in_Cpp)
+
 ## MISC
 
 1. [Visualgo.net](https://visualgo.net/en) is a pretty excellent place if you want a general visual overview of all the different kinds of tools that we have in Data Structures.
 
-2. Some related posts on Facebook page,
+2. [Interesting & nifty articles](https://hypertextassassin0273.github.io/blog-posts/) on various Data-Structures topics in C++ (contributed by [Shahzaib Khan](https://hypertextassassin0273.github.io/)).
+
+3. Some related posts on Facebook page,
    - [Muhammad AbuBakar](https://web.facebook.com/groups/softdevpk/permalink/1046698715787153/)
    - [Azeem Akhtar](https://web.facebook.com/groups/softdevpk/permalink/959172294539796/)
    - [Ahmed Musawar](https://web.facebook.com/groups/softdevpk/permalink/1046305165826508/)
