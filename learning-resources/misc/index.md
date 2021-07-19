@@ -19,6 +19,7 @@ For topics and ideas to niche to fit in one place
 - [Data Structure & Algorithms [TBD]](#data-structure--algorithms-tbd)
   - [Reading](#reading-1)
   - [Videos](#videos-1)
+  - [Repository](#repository)
   - [MISC](#misc-2)
 - [Entire Curriculum And Guides](#entire-curriculum-and-guides)
 
@@ -63,7 +64,8 @@ What other resources can you find? Try out,
 
 1. [Visualgo.net](https://visualgo.net/en) is a pretty excellent place if you want a general visual overview of all the different kinds of tools that we have in Data Structures.
 
-2. [Interesting & nifty articles](https://hypertextassassin0273.github.io/blog-posts/) on various Data-Structures topics in C++ (contributed by [Shahzaib Khan](https://hypertextassassin0273.github.io/)).
+2. [Interesting & nifty articles](https://hypertextassassin0273.github.io/blog-posts/) on various Data-Structures topics in C++
+(contributed by [Shahzaib Khan](https://hypertextassassin0273.github.io/)).
 
 3. Some related posts on Facebook page,
    - [Muhammad AbuBakar](https://web.facebook.com/groups/softdevpk/permalink/1046698715787153/)
